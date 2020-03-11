@@ -12,8 +12,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
   * 06/02/20
     * Evelyn Paiz-Reyes – LaSTIG/GeoVis
     * Image based rendering of large historical image collections (projet ANR ALEGORIA)
-    * ![](20191212_Webinar3D_MAGIS_3DMapsThroughTime_Devaux.png)
-    * [xx](20191212_Webinar3D_MAGIS_3DMapsThroughTime_Devaux.pdf)
+    * [Présentation pdf](20200206_Webinar3D_MAGIS_ImageBasedRendering_HistoricalImages_Paiz_Reyes.png
 PDF (52,7 Mo) - Vidéo (55,2 Mo)
 
 Présentation de xx 
