@@ -12,3 +12,24 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
 Présentation de xx 
 ![](20191212_Webinar3D_MAGIS_3DMapsThroughTime_Devaux.png)
 [xx](20191212_Webinar3D_MAGIS_3DMapsThroughTime_Devaux.pdf)
+
+
+
+06/02/20
+Evelyn Paiz-Reyes – LaSTIG/GeoVis
+Image based rendering of large historical image collections (projet ANR ALEGORIA)
+PDF (52,7 Mo) - Vidéo (55,2 Mo)
+
+3D Maps Through Time illustration
+12/12/19
+Alexandre Devaux – LaSTIG/GeoVis
+3D Maps - today and tomorrow, from desktop to outdoor mixed reality
+PDF (9,6 Mo)
+
+Immersive Visualization illustration
+03/10/19
+Maxim Spur – AAU/CRENAU
+Immersive Visualization of Multilayered Geospatial Urban Data
+PDF (29,7 Mo)
+
+Ⓒ MAGIS – Groupement de Recherche 2340 du CNRS (2017-2021)
