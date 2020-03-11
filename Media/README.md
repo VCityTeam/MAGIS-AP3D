@@ -5,7 +5,8 @@ Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en fra
 Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie.christophe@ign.fr).
 
 ### Présentations à venir
-  * 02/04 - 12h30 – Eric Boix, Vincent Jaillot – LIRIS - Outils de développements 3D (stockage et visualisation)
+  * 01/04 - 12h30 – Gilles Gesquière, Eric Boix, Vincent Jaillot – LIRIS - Outils de développements 3D (stockage et visualisation)
+  * 04/06- 12h30 - Vincent Jaillot - LIRIS visualisation 4D (titre à confirmer) 
 
 
 ### Présentations passées
