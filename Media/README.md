@@ -13,7 +13,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
  * 06/02/20
     * Gilles Gesquière, Eric Boix, Vincent Jaillot – LIRIS
     * Outils de développements 3D (stockage, traitement et visualisation) 
-    * [Présentation en pdf](20191212_Webinar3D_MAGIS_3DMapsThroughTime_Devaux.pdf)
+    * [Présentation en pdf](Webinar3D_Gesquiere.pptx.pdf)
  * 06/02/20
     * Evelyn Paiz-Reyes – LaSTIG/GeoVis
     * Image based rendering of large historical image collections (projet ANR ALEGORIA)
