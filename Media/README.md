@@ -5,8 +5,8 @@ Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en fra
 Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie.christophe@ign.fr).
 
 ### Présentations à venir
-* 24/06 - Matin : Réunion de l'AP Données 3D géospatiales
-* 23/06 - Après midi : Réunion de l'AP Géo-visualisation & Cognition
+* 23/06 - Après midi : Réunion de l'AP Géo-visualisation & Cognition (Précisions à venir)
+* 24/06 - Matin : Réunion de l'AP Données 3D géospatiales (Précisions à venir)
 * 08/10- 12h30
     * Titre de la présentation à venir
     
