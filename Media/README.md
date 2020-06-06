@@ -6,7 +6,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
 
 ### Présentations à venir
   * 04/06- 12h30 - Vincent Jaillot - LIRIS Modéliser et visualiser la ville 4D (3D + temps)
-  * [Lien vers la visio](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjFjOTczYWMtYjI0OC00OGQzLWIyMDItNWRlOWQ4YzY3ODE1%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d)
+  * [Présentation en pdf](Webinar3D_Gesquiere.pptx.pdf)
 
 ### Présentations passées
  * 06/02/20
