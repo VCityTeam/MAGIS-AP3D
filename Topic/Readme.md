@@ -1,7 +1,7 @@
 ### Listes des réunions et lien vers les comptes rendus
 
 # Tour de table
- * 16 participants
+ * 18 participants
  *  Tour de table. Chacun se présente en quelques minutes  (recherches / thèmes liés à l’AP 3D). Chacun matérialise ce contenu dans le tchat
     * Myriam Servières, AAU/IRSTV thèmes de recherche : Géolocalisation sur site, Réalité Augmentée, Modélisation d’environnements urbains
     * Eric Desjardin, Crestic Reims, co-responsable de l'AP incertitude, modélisation 3D dans le cadre du patrimoine
@@ -33,7 +33,7 @@
      * représentation de l'incertitude des données géographiques
        * Gestion des inondations ? 
      * Utilisation de l'aspect règlementaire en 3D
-       * SIMPLU, Cadastre 3D
+       * SIMPLU, Cadastre 3D, ...
      * Immersion sur site (l'utilisation de la 3D en RA et RV)
      * Annotation dans la donnée 3D
        * Accéder à la sémantique des données quand on a déjà une scène urbaine dense
@@ -44,6 +44,15 @@
        * Voir ce qui est explicable avec la 3D
        * Détecter des changements
        * qu'est ce qu'on pré-traite, qu'est ce qu'on affiche ?
+     * Prendre de la décision avec de la 3D; usages et pratiques
+     * Stockage/archivage de la donnée 3D serait également intéressant (format, métadonnées associées, réactivation facilitée)
+     * Volatilité et Volume des données
+     * Modélisation des données dans un contexte géographique
+     
+     
+     
+     * Symbologie
+     
      
     
     
