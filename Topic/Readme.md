@@ -15,12 +15,22 @@
     * Sylvie Servigne : 
     * Thomas Leduc, IRHC CNRS au sein de l'UMR AAU (Ambiances, Architectures, Urbanités), équipe CRENAU, à l'école d'architecture de Nantes. Ce qui me "préoccupe", c'est l'analyse de la forme urbaine au sens des divers registres de forme évoqués par A. Lévy en 2005 : forme des tissus, des tracés, du paysage, forme bioclimatique. Si je devais me définir avec un mot clef, ce mot serait l'isovist. Je fais du traitement spatial en 2D comme en 3D... ce qui explique mon intérêt pour cette AP.
     * Vincent Jaillot, actuellement chargé d’étude en informatique au LIRIS, Lyon, doctorant en 2017-2020 (soutenance le 10 septembre) au LIRIS sur l’intégration de la dimension temporelle et de données multimédia aux modèles de villes 3D pour leur visualisation et navigation sur le web, sous la direction de Gilles Gesquière et Sylvie Servigne.
+    * Jacques Gautier Post-doctorant dans l'équipe GeoVIS du LASTIG. Je travaille sur la covisualisation de données climatiques et/ou météorologiques avec un modèle 3D urbain, dans cadre du projet URCLIM.
     * Cyril de Runz
     
     
  
  
  *  Webinar 3D ; Rappel du fonctionnement. Les thèmes que nous pourrions aborder à partir de la rentrée
+   * Présentation du webinar
+   *  Retour d'expérience SC: 
+      * différents points de vus
+      * retours très positifs
+      * Partant pour augmenter le rythme
+   * Quels thèmes aborder ?
+   * On est parti d'une base solide et le public est assez varié
+   * Contenus assez divers. 
+ 
  * Voir comment nous pouvons thématiser (et faire des groupes de présentations afin de, si possible éditorialiser et inciter ces clusters de sujets à co-publier un papier en commun. 
  * Discussion sur la mise en place d’Ateliers techniques 3D (en présentiel)
  * Et vous, quels besoins 
