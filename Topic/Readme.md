@@ -21,29 +21,29 @@
 
 *  Webinar 3D ; Rappel du fonctionnement. Les thèmes que nous pourrions aborder à partir de la rentrée
    * Présentation du webinar
-    * 1 heure
-    *  chaque premier jeudi de chaque mois pair
+     * 1 heure
+     *  chaque premier jeudi de chaque mois pair
    *  Retour d'expérience SC: 
-     * différents points de vus
-     * retours très positifs
-     * Partant pour augmenter le rythme
+      * différents points de vus
+      * retours très positifs
+      * Partant pour augmenter le rythme
    * On est parti d'une base solide et le public est assez varié
    * Contenus assez divers. 
    * Quels thèmes aborder ?
-    * représentation de l'incertitude des données géographiques
-     * Gestion des inondations ? 
-    * Utilisation de l'aspect règlementaire en 3D
-     * SIMPLU, Cadastre 3D
-    * Immersion sur site (l'utilisation de la 3D en RA et RV)
-    * Annotation dans la donnée 3D
-     * Accéder à la sémantique des données quand on a déjà une scène urbaine dense
-    * Visualisation de phénomènes saillants
-     * analyse visuelle
-     * aide à l'interprétabilité
-     * Visualisation de données simulées (avec des données de simulation orientées métier)
-     * Voir ce qui est explicable avec la 3D
-     * Détecter des changements
-     * qu'est ce qu'on pré-traite, qu'est ce qu'on affiche ?
+     * représentation de l'incertitude des données géographiques
+       * Gestion des inondations ? 
+     * Utilisation de l'aspect règlementaire en 3D
+       * SIMPLU, Cadastre 3D
+     * Immersion sur site (l'utilisation de la 3D en RA et RV)
+     * Annotation dans la donnée 3D
+       * Accéder à la sémantique des données quand on a déjà une scène urbaine dense
+     * Visualisation de phénomènes saillants
+       * analyse visuelle
+       * aide à l'interprétabilité
+       * Visualisation de données simulées (avec des données de simulation orientées métier)
+       * Voir ce qui est explicable avec la 3D
+       * Détecter des changements
+       * qu'est ce qu'on pré-traite, qu'est ce qu'on affiche ?
      
     
     
