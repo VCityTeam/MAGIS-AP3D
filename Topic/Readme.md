@@ -1,5 +1,7 @@
 ### Listes des réunions et lien vers les comptes rendus
 
+## Réunion Assises GDR Magis 24/06/2020
+
 # Tour de table
  * 18 participants
  *  Tour de table. Chacun se présente en quelques minutes  (recherches / thèmes liés à l’AP 3D). Chacun matérialise ce contenu dans le tchat
