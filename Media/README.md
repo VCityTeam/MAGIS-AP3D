@@ -12,10 +12,10 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
     
   
 ### Présentations passées
- * 04/06- 12h30
+ * 04/06/2020- 12h30
     * Vincent Jaillot - LIRIS Modéliser et visualiser la ville 4D (3D + temps)
     * [Présentation en pdf](2020_06_02-MAGIS-VJaillot.pdf)
- * 06/02/20
+ * 02/04/2020
     * Gilles Gesquière, Eric Boix, Vincent Jaillot – LIRIS
     * Outils de développements 3D (stockage, traitement et visualisation) 
     * [Présentation en pdf](Webinar3D_Gesquiere.pptx.pdf)
