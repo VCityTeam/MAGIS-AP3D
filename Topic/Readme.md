@@ -1,22 +1,21 @@
 ### Listes des réunions et lien vers les comptes rendus
 
 # Tour de table
-
- 
+ * 16 participants
  *  Tour de table. Chacun se présente en quelques minutes  (recherches / thèmes liés à l’AP 3D). Chacun matérialise ce contenu dans le tchat
     * Myriam Servières, AAU/IRSTV thèmes de recherche : Géolocalisation sur site, Réalité Augmentée, Modélisation d’environnements urbains
     * Eric Desjardin, Crestic Reims, co-responsable de l'AP incertitude, modélisation 3D dans le cadre du patrimoine
     * Florence Jacquinod, enseignante-chercheure EIVP, laboratoire LASTIG, équipe Geovis Recherches sur les City Information Model 3D : usages pour l'aménagement et le génie urbain, interfaces d'interaction avec les données sous forme de géovisualisations. Projet E3S en cours sur le CIM de l'éco-quartier La Vallée à Châtenay Malabry avec Eiffage et l'I-Site FUTURE, projet de maquette numérique du Campus Descartes à Marne La Vallée.   
     * Jean-Michel Follin, Maître de conférences - labo GeF - Cnam (ESGT) intérêt pour le lien SIG - BIM, maquettes numériques urbaines modélisation 3D des informations foncières et réglementaires, patrimoniales
     * André Miralles UMR Tetis je participe à cette réunion pour "collecter" de l’info car je pense qu’il y a des connexions avec l’AP Observatoire (restitutions 3D de données). Par ailleurs, je suis membre du CSO R&I du plan Ecophyto et dans les recherches menées dans ce secteur, beaucoup de données sont des données 3D ou potentiellement 3D.
-    * Kristel Michel, EVS
-    * Maria
-    * Mathieu Brediff
+    * Kristell MICHEL / UMR 5600 EVS / IGE Spécialité thématique : géomorphologie fluviale, Intérêts 3D : changements morphologiques, végétation riveraine, modélisation 3D de site, prospective paysagère en lien avec les projets d'aménagements, couplage à d'autres données (hyperspectral par ex.). D'autres membres de l'équipe sont en train de lancer des projets sur la ville et la végétation. 
+    * María Jesús Lobo chercheuse au LASTIG, IGN équipe GeoVis. Thématiques de recherche: techniques d'intéraction pour la geovis, par exemple pour combiner plusieurs réprésentations. Actuellement je m'intéresse à la visualisation des données urbains en 3D, notamment en utilisant des technologies immersives comme la réalité augmentée. 
+    * Mathieu Brédif, Chercheur IGN, laboratoire LaSTIG, équipe Geovis. Thématiques de recherche : analyse et rendu de données 3D(+T), potentiellement hétérogènes, incertaines, incomplètes et massives : Images, nuages de points LiDAR, modèles 3D, simulations (météo...), notamment par le biais de techniques de rendu basé image.
     * Sidonie Christophe : Lastig
-    
-    
-    
+    * Sylvie Servigne : 
+    * Thomas Leduc, IRHC CNRS au sein de l'UMR AAU (Ambiances, Architectures, Urbanités), équipe CRENAU, à l'école d'architecture de Nantes. Ce qui me "préoccupe", c'est l'analyse de la forme urbaine au sens des divers registres de forme évoqués par A. Lévy en 2005 : forme des tissus, des tracés, du paysage, forme bioclimatique. Si je devais me définir avec un mot clef, ce mot serait l'isovist. Je fais du traitement spatial en 2D comme en 3D... ce qui explique mon intérêt pour cette AP.
     * Vincent Jaillot, actuellement chargé d’étude en informatique au LIRIS, Lyon, doctorant en 2017-2020 (soutenance le 10 septembre) au LIRIS sur l’intégration de la dimension temporelle et de données multimédia aux modèles de villes 3D pour leur visualisation et navigation sur le web, sous la direction de Gilles Gesquière et Sylvie Servigne.
+    * Cyril de Runz
     
     
  
