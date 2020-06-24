@@ -72,7 +72,10 @@
      * Valoriser les présentations des webinar 
      * Voir si le thème données géohistorique et 3D ne serait pas opportun
  * Discussion sur la mise en place d’Ateliers techniques 3D (en présentiel)
-   * iTowns
-   * Demander à des grands du domaine (Autodesk, Safe/ FME, Bentley systems)
+    * iTowns/ Cesium
+    * Demander à des grands du domaine (Autodesk, Safe/ FME, Bentley systems)
  * Et vous, quels besoins 
+   * Comment diffuser de façon commune les objets que nous développons ? Partager un endroit commun ? 
+   * Acquisition de données 3D. LiDAR emporté sur drone aérien par exemple ou sur véhicule terrestre. Cela amène des question sur quels outils, quid du pré-traitement/traitement de la donnée en temps réel... 
+   
  
