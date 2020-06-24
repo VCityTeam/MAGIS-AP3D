@@ -79,5 +79,6 @@
  * Et vous, quels besoins 
    * Comment diffuser de façon commune les objets que nous développons ? Partager un endroit commun ? 
    * Acquisition de données 3D. LiDAR emporté sur drone aérien par exemple ou sur véhicule terrestre. Cela amène des question sur quels outils, quid du pré-traitement/traitement de la donnée en temps réel... 
+   * Ouverture vers d'autres domaines (santé, robotique, ...). Comment les utilisent ils dans d'autres domaines. 
    
  
