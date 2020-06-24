@@ -44,17 +44,33 @@
        * Voir ce qui est explicable avec la 3D
        * Détecter des changements
        * qu'est ce qu'on pré-traite, qu'est ce qu'on affiche ?
+       * Interaction de la forme urbaine et phénomènes physiques
      * Prendre de la décision avec de la 3D; usages et pratiques
      * Stockage/archivage de la donnée 3D serait également intéressant (format, métadonnées associées, réactivation facilitée)
-     * Volatilité et Volume des données
+     * Gérer la volatilité et le volume des données
      * Modélisation des données dans un contexte géographique
+       * Pour la geovisualisation
+       * Pour un meilleur stockage
+       * Pour l'analyse
+       * Construire plusieurs vues avec une même donnée
+     * 
+
+
+
+       
      
      
      
      * Symbologie
      
+    *  Discussion sur les chaines de productions mobilisant la 3D. 
+      * Identifier les outils
+        * Discussion de la librairie geopanda : on se heurte de nouveau à des problèmes de 3D : https://geopandas.org/ 
+      * Identifier et documenter les chaines de productions utilisées
+      * Besoin de se présenter nos process de production
+   * Mise en place un partage de données
+   * Mise en place d'un partage des outils
      
-    
     
      
    
