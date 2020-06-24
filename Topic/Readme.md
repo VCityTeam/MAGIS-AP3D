@@ -12,24 +12,44 @@
     * María Jesús Lobo chercheuse au LASTIG, IGN équipe GeoVis. Thématiques de recherche: techniques d'intéraction pour la geovis, par exemple pour combiner plusieurs réprésentations. Actuellement je m'intéresse à la visualisation des données urbains en 3D, notamment en utilisant des technologies immersives comme la réalité augmentée. 
     * Mathieu Brédif, Chercheur IGN, laboratoire LaSTIG, équipe Geovis. Thématiques de recherche : analyse et rendu de données 3D(+T), potentiellement hétérogènes, incertaines, incomplètes et massives : Images, nuages de points LiDAR, modèles 3D, simulations (météo...), notamment par le biais de techniques de rendu basé image.
     * Sidonie Christophe : Lastig
-    * Sylvie Servigne : 
+    * Sylvie Servigne LIRIS, directrice du GDR Magis
     * Thomas Leduc, IRHC CNRS au sein de l'UMR AAU (Ambiances, Architectures, Urbanités), équipe CRENAU, à l'école d'architecture de Nantes. Ce qui me "préoccupe", c'est l'analyse de la forme urbaine au sens des divers registres de forme évoqués par A. Lévy en 2005 : forme des tissus, des tracés, du paysage, forme bioclimatique. Si je devais me définir avec un mot clef, ce mot serait l'isovist. Je fais du traitement spatial en 2D comme en 3D... ce qui explique mon intérêt pour cette AP.
     * Vincent Jaillot, actuellement chargé d’étude en informatique au LIRIS, Lyon, doctorant en 2017-2020 (soutenance le 10 septembre) au LIRIS sur l’intégration de la dimension temporelle et de données multimédia aux modèles de villes 3D pour leur visualisation et navigation sur le web, sous la direction de Gilles Gesquière et Sylvie Servigne.
     * Jacques Gautier Post-doctorant dans l'équipe GeoVIS du LASTIG. Je travaille sur la covisualisation de données climatiques et/ou météorologiques avec un modèle 3D urbain, dans cadre du projet URCLIM.
     * Cyril de Runz
-    
-    
- 
- 
- *  Webinar 3D ; Rappel du fonctionnement. Les thèmes que nous pourrions aborder à partir de la rentrée
+    * J-F Girres (MCF Univ. Paul-Valéry Montpellier, UMR GRED) : Intérêt pour la données 3D (modélisation, représentation), et les problématiques associées (visualisation, incertitude, convergence BIM-SIG...)
+
+*  Webinar 3D ; Rappel du fonctionnement. Les thèmes que nous pourrions aborder à partir de la rentrée
    * Présentation du webinar
+    * 1 heure
+    *  chaque premier jeudi de chaque mois pair
    *  Retour d'expérience SC: 
-      * différents points de vus
-      * retours très positifs
-      * Partant pour augmenter le rythme
-   * Quels thèmes aborder ?
+     * différents points de vus
+     * retours très positifs
+     * Partant pour augmenter le rythme
    * On est parti d'une base solide et le public est assez varié
    * Contenus assez divers. 
+   * Quels thèmes aborder ?
+    * représentation de l'incertitude des données géographiques
+     * Gestion des inondations ? 
+    * Utilisation de l'aspect règlementaire en 3D
+     * SIMPLU, Cadastre 3D
+    * Immersion sur site (l'utilisation de la 3D en RA et RV)
+    * Annotation dans la donnée 3D
+     * Accéder à la sémantique des données quand on a déjà une scène urbaine dense
+    * Visualisation de phénomènes saillants
+     * analyse visuelle
+     * aide à l'interprétabilité
+     * Visualisation de données simulées (avec des données de simulation orientées métier)
+     * Voir ce qui est explicable avec la 3D
+     * Détecter des changements
+     * qu'est ce qu'on pré-traite, qu'est ce qu'on affiche ?
+     
+    
+    
+     
+   
+   
  
  * Voir comment nous pouvons thématiser (et faire des groupes de présentations afin de, si possible éditorialiser et inciter ces clusters de sujets à co-publier un papier en commun. 
  * Discussion sur la mise en place d’Ateliers techniques 3D (en présentiel)
