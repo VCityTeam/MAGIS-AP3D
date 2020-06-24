@@ -53,30 +53,25 @@
        * Pour un meilleur stockage
        * Pour l'analyse
        * Construire plusieurs vues avec une même donnée
-     * 
-
-
-
-       
-     
-     
-     
-     * Symbologie
-     
+     * Symbologie 3D/ Sémiologie   
+       * Couleurs/ textures/ exploration des styles 
+     * Données géohistoriques et 3D
+        * Il y a beaucoup de travaux en cours. 
     *  Discussion sur les chaines de productions mobilisant la 3D. 
-      * Identifier les outils
-        * Discussion de la librairie geopanda : on se heurte de nouveau à des problèmes de 3D : https://geopandas.org/ 
-      * Identifier et documenter les chaines de productions utilisées
-      * Besoin de se présenter nos process de production
-   * Mise en place un partage de données
-   * Mise en place d'un partage des outils
+       * Identifier les outils
+         * Discussion de la librairie geopanda : on se heurte de nouveau à des problèmes de 3D : https://geopandas.org/ 
+       * Identifier et documenter les chaines de productions utilisées
+       * Besoin de se présenter nos process de production
+    * Validité des données 3D
+      * Avoir des outils de validation des données (ex Val3dity)
+   * Discussion sur  
+     * Mise en place un partage de données
+     * Mise en place d'un partage des outils
+       * Voir dans les autres communautés les outils mobilisés (ex. Paraview) 
+  * Voir comment nous pouvons thématiser (et faire des groupes de présentations afin de, si possible éditorialiser et inciter ces clusters de sujets à co-publier un papier en commun. 
+     * Valoriser les présentations des webinar 
+     * Voir si le thème données géohistorique et 3D ne serait pas opportun
      
-    
-     
-   
-   
- 
- * Voir comment nous pouvons thématiser (et faire des groupes de présentations afin de, si possible éditorialiser et inciter ces clusters de sujets à co-publier un papier en commun. 
  * Discussion sur la mise en place d’Ateliers techniques 3D (en présentiel)
  * Et vous, quels besoins 
  
