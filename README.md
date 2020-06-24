@@ -5,7 +5,7 @@
  - [Webinar 3D](Media/README.md)
  - [Participants](Participants.md)
  - [Available 3D data](Data.md)
- - [Available resources (components, softwares...)](Participants.md)
+ - [Available resources (components, softwares...)](Components.md)
  
 ## Welcome to the MAGIS-AP3D
 
