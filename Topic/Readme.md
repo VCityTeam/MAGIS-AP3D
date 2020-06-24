@@ -71,7 +71,8 @@
   * Voir comment nous pouvons thématiser (et faire des groupes de présentations afin de, si possible éditorialiser et inciter ces clusters de sujets à co-publier un papier en commun. 
      * Valoriser les présentations des webinar 
      * Voir si le thème données géohistorique et 3D ne serait pas opportun
-     
  * Discussion sur la mise en place d’Ateliers techniques 3D (en présentiel)
+   * iTowns
+   * Demander à des grands du domaine (Autodesk, Safe/ FME, Bentley systems)
  * Et vous, quels besoins 
  
