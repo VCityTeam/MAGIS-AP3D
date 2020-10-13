@@ -5,10 +5,20 @@ Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en fra
 Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie.christophe@ign.fr).
 
 ### Présentations à venir
-* 23/06 - Après midi : Réunion de l'AP Géo-visualisation & Cognition (Précisions à venir)
-* 24/06 - Matin : Réunion de l'AP Données 3D géospatiales (Précisions à venir)
-* 08/10- 12h30
-    * Titre de la présentation à venir
+* 04/03/2020 - 12h30
+   * ??? 
+* 04/02/2020 - 12h30
+   * Pierre-Olivier Mazagol - Univ. Saint-Etienne
+   * Géovisualisation 3D du patrimoine englouti
+* 07/01/2020 - 12h30
+   * Gabriel Giraldo - AAU-CRENAU
+   * Perception du vent en milieu urbain
+* 03/12/2020 - 12h30
+   * Boris Merisckay - Univ. Rennes 2
+   * Outils de carto 3D
+* 05/11/2020 - 12h30
+   * Gilles Gesquière - LIRIS
+   * 
     
   
 ### Présentations passées
