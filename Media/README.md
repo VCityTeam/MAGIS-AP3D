@@ -8,11 +8,11 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
 * 04/03/2021 - 12h30
    * ? 
 * 04/02/2021 - 12h30
-   * Pierre-Olivier Mazagol - Univ. Saint-Etienne - Géovisualisation 3D du patrimoine englouti
+   *  Pierre-Olivier Mazagol - Univ. Saint-Etienne - Géovisualisation 3D du patrimoine englouti.
 * ![Image](20210107_Webinar3D_MAGIS_PerceptionVent_Giraldo.png) 07/01/2021 - 12h30
-   * Gabriel Giraldo - AAU-CRENAU - Perception d'une Représentation Multisensorielle du Vent en Réalité Virtuelle
-* 03/12/2020 - 12h30
-   * Boris Merisckay - Univ. Rennes 2 - Outils de Webmapping 3D
+   * Gabriel Giraldo - AAU-CRENAU - Perception d'une Représentation Multisensorielle du Vent en Réalité Virtuelle.
+* ![Image](20201203_Webinar3D_MAGIS_3DTools_Boris.png)  03/12/2020 - 12h30
+   * Boris Merisckay - Univ. Rennes 2 - Intégrer de la 3D dans les cartes en lignes avec le WebGL.
 * 05/11/2020 - 12h30
    * Gilles Gesquière - LIRIS
   
