@@ -14,7 +14,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
 * ![Image](20201203_Webinar3D_MAGIS_3DTools_Boris.png)  03/12/2020 - 12h30
    * Boris Merisckay - Univ. Rennes 2 - Intégrer de la 3D dans les cartes en lignes avec le WebGL.
 * 05/11/2020 - 12h30
-   * Gilles Gesquière - LIRIS
+   * Gilles Gesquière, Corentin Gautier, Homère Bourgeois - Univ. Lyon- LIRIS - 3D, 4D et interfaces avec les territoires 
   
 ### Présentations passées
  * ![Image](20200602_Webinar3D_MAGIS_Modeliser_Visualiser_Ville_4D_Jaillot_Servigne_Gesquieres.png) 04/06/2020
