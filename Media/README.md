@@ -4,8 +4,10 @@ Ces présentations « autour de la 3D » sont organisées par les APs Données 3
 Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
 Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie.christophe@ign.fr).
 
-### Présentations à venir
-* 01/04:2020 - 12h30
+### Présentations 2020/2021
+* ...
+
+* 01/04/2021 - 12h30
    *  Markie Jiang - Lastig, Univ. G. Eiffel - Cognitive model of interaction without vision for tactile exploration of 3D maps
    
 * 04/03/2021 - 12h30
