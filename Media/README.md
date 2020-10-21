@@ -9,6 +9,8 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
 * 04/03/2021 - 12h30
    *  Jacques Gautier - Lastig, Univ. G. Eiffel - Visualisation de données de températures simulées en milieu urbain.
    
+   ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png)
+   
 * 04/02/2021 - 12h30
    *  Pierre-Olivier Mazagol - Univ. Saint-Etienne - Géovisualisation 3D du patrimoine englouti.
    
