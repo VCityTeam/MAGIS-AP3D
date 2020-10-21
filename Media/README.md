@@ -16,7 +16,9 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
    ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png)
    
 * 04/02/2021 - 12h30
-   *  Pierre-Olivier Mazagol - Univ. Saint-Etienne - Géovisualisation 3D du patrimoine englouti.
+   *  Pierre-Olivier Mazagol - Univ. Saint-Etienne, EVS - Géovisualisation 3D du patrimoine englouti.
+   
+   ![Image](20210204_Webinar3D_Patenglouti_mazagol.png)
    
 *  07/01/2021 - 12h30
    * Gabriel Giraldo - AAU-CRENAU - Perception d'une Représentation Multisensorielle du Vent en Réalité Virtuelle.
