@@ -26,7 +26,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
    ![Image](20210107_Webinar3D_MAGIS_PerceptionVent_Giraldo.png)
 
 *  03/12/2020 - 12h30
-    * Boris Mericskay - Univ. Rennes 2 - Intégrer de la 3D dans les cartes en lignes avec le WebGL.
+    * Boris Mericskay - Univ. Rennes 2 - Intégrer de la 3D dans les cartes en lignes avec WebGL.
    
     ![Image](20201203_Webinar3D_MAGIS_3DTools_Boris.png)
 
