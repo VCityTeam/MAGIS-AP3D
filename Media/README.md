@@ -6,6 +6,9 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
 
 ### Présentations à venir
 
+* 04/03/2021 - 12h30
+   *  Jacques Gautier - Lastig, Univ. G. Eiffel - Visualisation de données de températures simulées en milieu urbain.
+   
 * 04/02/2021 - 12h30
    *  Pierre-Olivier Mazagol - Univ. Saint-Etienne - Géovisualisation 3D du patrimoine englouti.
    
