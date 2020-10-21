@@ -5,7 +5,9 @@ Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en fra
 Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie.christophe@ign.fr).
 
 ### Présentations à venir
-
+* 01/04:2020 - 12h30
+   *  Markie Jiang - Lastig, Univ. G. Eiffel - Cognitive model of interaction without vision for tactile exploration of 3D maps
+   
 * 04/03/2021 - 12h30
    *  Jacques Gautier - Lastig, Univ. G. Eiffel - Visualisation de données de températures simulées en milieu urbain.
    
