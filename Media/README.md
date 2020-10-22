@@ -5,10 +5,11 @@ Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en fra
 Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie.christophe@ign.fr).
 
 ### Présentations 2020/2021
-* ...
-
+* 06/05/2021 - 12h30
+   *  Florence Jacquinod - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
+   
 * 01/04/2021 - 12h30
-   *  Markie Jiang - Lastig, Univ. G. Eiffel - Cognitive model of interaction without vision for tactile exploration of 3D maps
+   *  Markie Jiang - Lastig, Univ. G. Eiffel - Cognitive model of interaction without vision for tactile exploration of 3D maps.
    
 * 04/03/2021 - 12h30
    *  Jacques Gautier - Lastig, Univ. G. Eiffel - Visualisation de données de températures simulées en milieu urbain.
