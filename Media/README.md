@@ -8,6 +8,8 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
 * 06/05/2021 - 12h30
    *  Florence Jacquinod - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
    
+   ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
+   
 * 01/04/2021 - 12h30
    *  Markie Jiang - Lastig, Univ. G. Eiffel - Cognitive model of interaction without vision for tactile exploration of 3D maps.
    
