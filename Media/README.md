@@ -33,12 +33,13 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) et Sidonie Christophe (sidonie
    
     ![Image](20201203_Webinar3D_MAGIS_3DTools_Boris.png)
 
+### Présentations passées
+
 *  05/11/2020 - 12h30
-   * Gilles Gesquière, Corentin Gautier, Homère Bourgeois - Univ. Lyon- LIRIS - 3D, 4D et interfaces avec les territoires 
+   * Gilles Gesquière, Corentin Gautier, Homère Bourgeois - Univ. Lyon- LIRIS - [3D, 4D et interfaces avec les territoires](2020_11__05_Liris_Datagora.pdf)
   
    ![Image](2020_11_05_Gesquiere_Lego.png)
   
-### Présentations passées
  *  04/06/2020
     * Vincent Jaillot - [LIRIS Modéliser et visualiser la ville 4D (3D + temps)](2020_06_02-MAGIS-VJaillot.pdf)
     
