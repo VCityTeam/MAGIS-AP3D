@@ -27,6 +27,10 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    * Gabriel Giraldo - AAU-CRENAU - Perception d'une Représentation Multisensorielle du Vent en Réalité Virtuelle.
    
    ![Image](20210107_Webinar3D_MAGIS_PerceptionVent_Giraldo.png)
+   
+   * Participer à la réunion Zoom
+     * https://ec-nantes.zoom.us/j/95012017866
+  	 * ID de réunion : 950 1201 7866 Code secret : bn5QEW*E
 
 ### Présentations passées
 
