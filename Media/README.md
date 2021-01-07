@@ -22,17 +22,14 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    *  Pierre-Olivier Mazagol - Univ. Saint-Etienne, EVS - Géovisualisation 3D du patrimoine englouti.
    
    ![Image](20210204_Webinar3D_Patenglouti_mazagol.png)
-   
-*  07/01/2021 - 12h30
-   * Gabriel Giraldo - AAU-CRENAU - Perception d'une Représentation Multisensorielle du Vent en Réalité Virtuelle.
-   
-   ![Image](20210107_Webinar3D_MAGIS_PerceptionVent_Giraldo.png)
-   
-   * Participer à la réunion Zoom
-     * https://ec-nantes.zoom.us/j/95012017866
-  	 * ID de réunion : 950 1201 7866 Code secret : bn5QEW*E
 
 ### Présentations passées
+
+*  07/01/2021 - 12h30
+   * Gabriel Giraldo - AAU-CRENAU - [Perception d'une Représentation Multisensorielle du Vent en Réalité Virtuelle.](20210107_AAU_Giraldo_VentRV.pdf)
+   
+   ![Image](20210107_Webinar3D_MAGIS_PerceptionVent_Giraldo.png)
+
 
 *  03/12/2020 - 12h30
     * Boris Mericskay - Univ. Rennes 2 - [Intégrer de la 3D dans les cartes en lignes avec WebGL.](20201203_Webinar_3D_BM.pdf)
