@@ -6,9 +6,9 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 ### Présentations 2020/2021
 * 03/06/2021 - 12h30
-  * Thomas Leduc - AAU - 3D et analyse visuelle des environnements urbains
+  * Thomas Leduc - AAU - 3D et analyse visuelle des environnements urbains - [Résumé](20210603_Resume_leduc.md)
 
-  ![Image](20210603_Webinar3D_MAGIS_AnalyseVisuEnvUrbains_Leduc.png)
+  ![Image](20210603_Webinar3D_MAGIS_AnalyseVisuEnvUrbains_Leduc.png) 
   
 * 06/05/2021 - 12h30
    *  Florence Jacquinod - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
