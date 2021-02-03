@@ -26,7 +26,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 * 04/02/2021 - 12h30
    *  Pierre-Olivier Mazagol - Univ. Saint-Etienne, EVS - Géovisualisation 3D du patrimoine englouti.
    
-   ![Image](20210204_Webinar3D_Patenglouti_mazagol.png)
+   ![Image](20210204_Webinar3D_Patenglouti_mazagol.png) [Lien de connexion pour la présentation](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdlYWI1MTEtY2FhNi00OGZlLTk5NTQtNjdjYzNmZTk4MmUz%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d)
 
 ### Présentations passées
 
