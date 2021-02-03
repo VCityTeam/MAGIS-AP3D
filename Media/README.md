@@ -5,6 +5,9 @@ Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en fra
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
 ### Présentations 2020/2021
+* 03/06/2021 - 12h30
+  * Thomas Leduc - AAU - 3D et analyse visuelle des environnements urbains
+
 * 06/05/2021 - 12h30
    *  Florence Jacquinod - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
    
