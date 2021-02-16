@@ -5,7 +5,7 @@ Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en fra
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
 ### Présentations 2020/2021
-* 01/06/2021 - 12h30
+* 03/06/2021 - 12h30
   * Thomas Leduc - AAU - 3D et analyse visuelle des environnements urbains - [Résumé](20210603_Resume_leduc.md)
 
   ![Image](20210603_Webinar3D_MAGIS_AnalyseVisuEnvUrbains_Leduc.png) 
