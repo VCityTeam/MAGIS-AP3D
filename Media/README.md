@@ -1,5 +1,5 @@
 #  Webinar 3D - [GDR CNRS MAGIS](http://gdr-magis.imag.fr/)
-Ces présentations « autour de la 3D » sont organisées par les APs Données 3D géospatiales et Géo-visualisation & Cognition. Elles ont pour vocation à se répéter tous les 2 mois (1er jeudi des mois pairs) sur le temps de la pause méridienne. Elles concerneront soit des recherches en cours soit des outils liés à l’étude ou à la représentation de données multidimensionnelles.
+Ces présentations « autour de la 3D » sont organisées par les APs Données 3D géospatiales et Géo-visualisation & Cognition. Elles ont pour vocation à se répéter tous les mois (1er jeudi du mois) sur le temps de la pause méridienne. Elles concerneront soit des recherches en cours soit des outils liés à l’étude ou à la représentation de données multidimensionnelles.
 
 Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
