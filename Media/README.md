@@ -1,11 +1,11 @@
 #  Webinar 3D et geospatial
 Le Webinar 3D « autour de la 3D » est organisées par le [GDR CNRS MAGIS](http://gdr-magis.imag.fr/) (Actions Prospectives "Données 3D géospatiales" et "Géo-visualisation & Cognition"). 
 
- Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu visualisation.
+ Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu et visualisation.
  
-  Le Webinar 3D est un lieu d'échange sur les données géospatiales multidimensionnelles (et en particulier la 3D, la prise en compte du temps et la sémantique liée). Les présentations portent sur des recherches en cours (pas forcément abouties), des outils liés à l’étude ou à la représentation de données ou des cas d'utilisation où la donnée 3D a été mobilisée. 
+  Le Webinar 3D est un lieu d'échange sur les données géospatiales multidimensionnelles. Les présentations portent sur des recherches en cours (pas forcément abouties), des outils liés à l’étude ou à la représentation de données ou des cas d'utilisation où la donnée 3D a été mobilisée. 
   
-  Au cours de chaque session, il s'agit d'une prise de parole de 30 minutes suivie de 30 minutes de discussions et échanges, partie importante de ce groupe de travail. 
+  Au cours de chaque session, il s'agit d'une prise de parole de 30 minutes (maximum) suivie de 30 minutes de discussions et échanges, partie importante de ce groupe de travail. 
   
  Le Webinar 3D a pour vocation à se répéter tous les mois (1er jeudi du mois) sur le temps de la pause méridienne (12h30- 13H30) 
 
