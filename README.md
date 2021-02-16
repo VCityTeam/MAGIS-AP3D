@@ -3,6 +3,7 @@
 ### Quick links
  - [Topic Meetings](Topic/Readme.md)
  - [Webinar 3D](Media/README.md)
+ - [Journée d'étude](Journee.md)
  - [Participants](Participants.md)
  - [Available 3D data](data.md)
  - [Available resources (components, softwares...)](Components.md)
