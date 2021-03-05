@@ -13,6 +13,9 @@ Le Webinar 3D « autour de la 3D » est organisées par le [GDR CNRS MAGIS](http
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
 ### Présentations 2020/2021
+* 01/07/2021 - 12h30
+  * Arnaud Prouzeau - Inria - visualisation immersive de données spatiales
+  
 * 03/06/2021 - 12h30
   * Thomas Leduc - AAU - 3D et analyse visuelle des environnements urbains - [Résumé](20210603_Resume_leduc.md)
 
