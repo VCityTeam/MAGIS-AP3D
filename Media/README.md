@@ -24,7 +24,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
    
 * 01/04/2021 - 12h30
-   *  Markie Jiang - Lastig, Univ. G. Eiffel - Cognitive model of interaction without vision for tactile exploration of 3D maps.
+   * 
    
 * 04/03/2021 - 12h30
    *  Jacques Gautier - Lastig, Univ. G. Eiffel - Visualisation de données de températures simulées en milieu urbain.
