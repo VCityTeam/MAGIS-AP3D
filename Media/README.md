@@ -32,9 +32,8 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 * 04/03/2021 - 12h30
    *  Jacques Gautier - Lastig, Univ. G. Eiffel - [Visualisation de données de températures simulées en milieu urbain.](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.pdf)
    
-   ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png)[Vidéo](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.mp4)
-   Lien de la visio : https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBhMDY2ODItMzI4OC00NGZlLWI0ZTMtNDVmOTZjYzllZTFi%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d
-   
+   ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png) [Vidéo](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.mp4)
+      
 
 ### Présentations passées
 
