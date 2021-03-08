@@ -14,10 +14,10 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 ### Présentations 2020/2021
 * 01/07/2021 - 12h30
-  * Arnaud Prouzeau - Inria - visualisation immersive de données spatiales
+  * Arnaud Prouzeau - Inria - Visualisation immersive de données spatiales
   
 * 03/06/2021 - 12h30
-  * Thomas Leduc - AAU - 3D et analyse visuelle des environnements urbains - [Résumé](20210603_Resume_leduc.md)
+  * Thomas Leduc - UMR AAU - 3D et analyse visuelle des environnements urbains - [Résumé](20210603_Resume_leduc.md)
 
   ![Image](20210603_Webinar3D_MAGIS_AnalyseVisuEnvUrbains_Leduc.png) 
   
@@ -27,12 +27,12 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
    
 * 01/04/2021 - 12h30
-   * 
+   *  Violette Abergel - UMR MAP, CNRS - Chantier scientifique de Notre-Dame de Paris : problématiques de visualisation/analyse 3D.
    
 * 04/03/2021 - 12h30
-   *  Jacques Gautier - Lastig, Univ. G. Eiffel - Visualisation de données de températures simulées en milieu urbain.
+   *  Jacques Gautier - Lastig, Univ. G. Eiffel - [Visualisation de données de températures simulées en milieu urbain.](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.pdf)
    
-   ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png)
+   ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png)[Vidéo](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.mp4)
    Lien de la visio : https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBhMDY2ODItMzI4OC00NGZlLWI0ZTMtNDVmOTZjYzllZTFi%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d
    
 
