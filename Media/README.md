@@ -27,15 +27,18 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
    
 * 01/04/2021 - 12h30
-   *  Violette Abergel - UMR MAP, CNRS - Chantier scientifique de Notre-Dame de Paris : problématiques de visualisation/analyse 3D.
+   *  Violette Abergel - UMR MAP, CNRS - Une plateforme numérique pour la documentation du chantier scientifique de Notre-Dame de Paris.
    
-* 04/03/2021 - 12h30
-   *  Jacques Gautier - Lastig, Univ. G. Eiffel - [Visualisation de données de températures simulées en milieu urbain.](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.pdf)
-   
-   ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png) [Vidéo](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.mp4)
-      
+   ![Image](202104_Webinar3D_Abergel_TallonXray.png)
+
 
 ### Présentations passées
+
+* 04/03/2021 - 12h30
+
+   *  Jacques Gautier - Lastig, Univ. G. Eiffel - [Visualisation de données de températures simulées en milieu urbain.](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.pdf)
+
+   ![Image](20210304_Webinar3D_MAGIS_VisuClimato_Gautier.png) [Vidéo](2021034_Webinar3D_MAGIS_TempAndUrbanData_JGautier.mp4)
 
 * 04/02/2021 - 12h30
    *  Pierre-Olivier Mazagol - Univ. Saint-Etienne, EVS - Géovisualisation 3D du patrimoine englouti.
