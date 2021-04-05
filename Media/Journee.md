@@ -14,6 +14,8 @@ Myriam Servières (AAU, Nantes), (myriam.servieres@ec-nantes.fr), Sidonie Christ
 
 
 ### Informations (à venir)
-  * Date planifiée : deuxième quinzaine de juin 2021)
+  * Date planifiée : deuxième quinzaine de juin 2021
   * Lieu : en distanciel, sinon sur Lyon
-  * Modalités : Journée/ demi-journée d'échange 
+  * Modalités
+    * Journée/ demi-journée d'échange
+    * Exposés et une table ronde
