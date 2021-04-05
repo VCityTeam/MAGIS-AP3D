@@ -1,5 +1,6 @@
-### Journée Repésentations des espaces urbains
 ## Journée étude conjointe GDR Magis  et GDR IG-RV
+
+### Journée Repésentations des espaces urbains
 
 Trouver des modalités afin de décrire le territoire n'est pas nouveau. Depuis des centaines d'années, la carte a par exemple permis d'aider à la compréhension du monde, chaque parcelle du globe étant répertoriée avec toujours plus de détails. Aujourd'hui, l'avènement du numérique permet à beaucoup de territoires de pouvoir disposer de son double numérique. Au-delà d'une cartographie qui était souvent 2D et composé d'images (rasters), il est maintenant possible de disposer de données 3D texturées de grande qualité; les données peuvent être polygonales (chaque point ayant une précision à quelques cm), ou composés de points (avec plusieurs dizaine de points par m2). Les territoires couverts vont de l'intérieurs de bâtiments (comme on peut le voir sur le chantier de la cathédrale de notre dame) à quelques milliers de km2 (avec le relevé LidAr à l'échelle de la France en cours par l'IGN, ou la couverture des USA, du Canada ou de la Hollande). 
 Utiliser ces données amène le spécialiste de l'information géographique à devoir mobiliser des compétences que l'on rencontre  en informatique graphique, que ce soit en rendu, en visualisation, en modélisation géométrique ou en simulation. Le spécialiste de l'informatique graphique doit quant à lui mieux comprendre cette donnée spécifique et son rôle dans la compréhension du territoire. 
