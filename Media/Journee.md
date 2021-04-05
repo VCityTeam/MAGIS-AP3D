@@ -11,3 +11,9 @@ Si vous êtes intéressé par cette initiative qui pourrait se dérouler (a prio
 
 Nous restons à votre disposition pour échanger 
 Myriam Servières (AAU, Nantes), (myriam.servieres@ec-nantes.fr), Sidonie Christophe (LASTIG, Marne la vallée)(sidonie.christophe@ign.fr) ou Gilles Gesquière (LIRIS, Lyon) (gilles.gesquiere@liris.cnrs.fr)
+
+
+### Informations (à venir)
+  * Date planifiée : deuxième quinzaine de juin 2021)
+  * Lieu : en distanciel, sinon sur Lyon
+  * Modalités : Journée/ demi-journée d'échange 
