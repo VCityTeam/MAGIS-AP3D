@@ -23,6 +23,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
   
 * 03/06/2021 - 12h30
   * Thomas Leduc - UMR AAU - 3D et analyse visuelle des environnements urbains - [Résumé](20210603_Resume_leduc.md)
+  * Le lien teams : https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzBmNGI1NDQtNGI1Zi00ZWI3LWFhMTUtZmQ4MzcwNTQ4ZmVk%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d 
 
   ![Image](20210603_Webinar3D_MAGIS_AnalyseVisuEnvUrbains_Leduc.png) 
   
