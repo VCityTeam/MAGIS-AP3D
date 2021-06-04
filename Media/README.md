@@ -19,8 +19,10 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
 
 * 01/07/2021 - 12h30
-  * Arnaud Prouzeau - Inria - Visualisation immersive de données spatiales
+  * Arnaud Prouzeau - Inria/POTIOC - Visualisation immersive de données spatiales
   
+   ![Image](202107_Webinar3D_MAGIS_AP.jpg)
+   
 * 03/06/2021 - 12h30
   * Thomas Leduc - UMR AAU - [3D et analyse visuelle des environnements urbains](20210603_Webinar3D_MAGIS_tleduc.pdf) - [Résumé](20210603_Resume_leduc.md)
 
