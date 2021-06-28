@@ -20,6 +20,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 * 01/07/2021 - 12h30
   * Arnaud Prouzeau - Inria/POTIOC - Visualisation immersive de données spatiales
+  * Lien teams : https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmU3YzE5NWItMzNiYi00ZmJkLWExY2ItNTU5NjQ2NGI0ZTg0%40thread.v2/0?context=%7b%22Tid%22%3a%2248de1058-eede-40db-8a8a-a5d971e3b932%22%2c%22Oid%22%3a%229b54b230-2586-4ea5-9757-7d66a50678f2%22%7d 
   
    ![Image](202107_Webinar3D_MAGIS_AP.jpg)
    
