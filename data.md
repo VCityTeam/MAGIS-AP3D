@@ -1,6 +1,6 @@
-## Here we will find some links to free 3D datasets
+Cette page référence des modèles 3D disponibles. N'hésitez pas à nous contacter si des modèles que vos connaissez ne sont pas encore référencés.
 
-# Maquette 3D sur l'open data de Strasbourg
+## Maquette 3D sur l'open data de Strasbourg
   * Lien : https://data.strasbourg.eu/explore/dataset/odata3d_maquette/custom/
   * Niveaux de détails
   * Formats OBJ et SKP
