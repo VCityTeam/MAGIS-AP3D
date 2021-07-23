@@ -18,3 +18,5 @@ Cette page référence des modèles 3D disponibles. N'hésitez pas à nous conta
   * Plus d'informations : https://data.strasbourg.eu/explore/dataset/odata3d_maquette/information/ 
   * Dernière mise à jour : Dec 2020
   * Ajouté sur le site de l'AP 3D du GDR Magis le 23/07/2021
+## Autres modèles (hors France)
+  * Liste mise en place par Volker Coors, HFT Stuttgart : https://www.coors-online.de/standards/3d-portrayal-service/3dps-test-data-sets/
