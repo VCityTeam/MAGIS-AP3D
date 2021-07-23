@@ -1,6 +1,6 @@
 Cette page référence des modèles 3D disponibles. N'hésitez pas à nous contacter si des modèles que vos connaissez ne sont pas encore référencés.
 
-## Maquette 3D sur l'Open data de Strasbourg
+## Maquette 3D sur l'Open data de la métropole de Lyon
   * Localisation : Métropole de Lyon  
   * Lien : https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/info (avec pour exemple la maquette 2018)
   * Peu de niveaux de détails
