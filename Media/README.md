@@ -12,6 +12,34 @@ Le Webinar 3D « autour de la 3D » est organisées par le [GDR CNRS MAGIS](http
  Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
+### Présentations 2021/2022 (Programme en cours de construction!)
+
+* 07/07/2022 - 12h30 
+
+* 02/06/2022 - 12h30 
+
+* 05/05/2022 - 12h30 
+
+* 07/04/2022 - 12h30 
+
+* 03/03/2022 - 12h30 
+
+* 03/02/2022 - 12h30 
+
+   *  Florence Jacquinod - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
+   
+   ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
+
+*  06/01/2022 - 12h30
+ 
+*  02/12/2021 - 12h30
+
+*  04/11/2021 - 12h30
+
+*  07/10/2021 - 12h30
+
+*  03/09/2021 - 12h30
+
 ### Présentations 2020/2021
 * 01/07/2021 - 12h30
   * Arnaud Prouzeau - Inria/POTIOC - Visualisation immersive de données spatiales
