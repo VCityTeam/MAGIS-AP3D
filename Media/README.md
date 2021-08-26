@@ -43,8 +43,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 ### Présentations 2020/2021
 * 01/07/2021 - 12h30
   * Arnaud Prouzeau - Inria/POTIOC - Visualisation immersive de données spatiales
-  * Lien teams : https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmU3YzE5NWItMzNiYi00ZmJkLWExY2ItNTU5NjQ2NGI0ZTg0%40thread.v2/0?context=%7b%22Tid%22%3a%2248de1058-eede-40db-8a8a-a5d971e3b932%22%2c%22Oid%22%3a%229b54b230-2586-4ea5-9757-7d66a50678f2%22%7d 
-  
+ 
    ![Image](202107_Webinar3D_MAGIS_AP.jpg)
    
 * 03/06/2021 - 12h30
@@ -59,7 +58,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
    
 * 01/04/2021 - 12h30
-   *  Violette Abergel - UMR MAP, CNRS - Une plateforme numérique pour la documentation du chantier scientifique de Notre-Dame de Paris.
+   *  Violette Abergel - UMR MAP, CNRS - [Une plateforme numérique pour la documentation du chantier scientifique de Notre-Dame de Paris.](2021_Webinar3D_VAbergel_MAP.pdf)
    
    ![Image](202104_Webinar3D_Abergel_TallonXray.png)
 
