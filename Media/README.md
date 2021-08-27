@@ -37,8 +37,8 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 *  04/11/2021 - 12h30
 
 *  07/10/2021 - 12h30
+  * Mathieu Brédif  
 
-*  03/09/2021 - 12h30
 
 ### Présentations 2020/2021
 * 01/07/2021 - 12h30
@@ -51,19 +51,12 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
   ![Image](20210603_Webinar3D_MAGIS_AnalyseVisuEnvUrbains_Leduc.png) 
   
-* 06/05/2021 - 12h30 : ANNULE
-   *  Cette présentation se fera à la rentrée de septembre
-   *  Florence Jacquinod - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
-   
-   ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
-   
+
 * 01/04/2021 - 12h30
    *  Violette Abergel - UMR MAP, CNRS - [Une plateforme numérique pour la documentation du chantier scientifique de Notre-Dame de Paris.](2021_Webinar3D_VAbergel_MAP.pdf)
    
    ![Image](202104_Webinar3D_Abergel_TallonXray.png)
 
-
-### Présentations passées
 
 * 04/03/2021 - 12h30
 
