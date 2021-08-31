@@ -21,6 +21,16 @@ Cette page référence des modèles 3D disponibles. N'hésitez pas à nous conta
   * Dernière mise à jour : Dec 2020
   * Ajouté sur le site de l'AP 3D du GDR Magis le 23/07/2021
 
+## Maquette 3D sur l'open data de Bordeaux
+  * Localisation : Bordeaux
+  * Lien : https://opendata.bordeaux-metropole.fr/explore/dataset/bati3d/information/
+  * Niveaux de détails ? A vérifier mais LoD2
+  * Formats 3DS
+  * Objets : Modèle numérique de terrain, bâtiments, arbres
+  * Plus d'informations : https://data.strasbourg.eu/explore/dataset/odata3d_maquette/information/ 
+  * Dernière mise à jour : 30 août 2021 
+  * Ajouté sur le site de l'AP 3D du GDR Magis le 31/08/2021
+
 # Autres modèles (hors France)
   * Liste mise en place par Volker Coors, HFT Stuttgart : https://www.coors-online.de/standards/3d-portrayal-service/3dps-test-data-sets/
   * Liste très complète mise en place par L'université Technique Delft (TU Delft) : https://3d.bk.tudelft.nl/opendata/opencities/
