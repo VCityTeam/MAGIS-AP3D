@@ -35,9 +35,10 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 *  02/12/2021 - 12h30
 
 *  04/11/2021 - 12h30
-
+   *  Thibaud Chassin - HEIG-VD / EPFL - 3D et e-participation dans l'aménagement du territoire.
+ 
 *  07/10/2021 - 12h30
-  * Mathieu Brédif  
+  * Mathieu Brédif - LASTIG - Rendu et reconstruction 3D.
 
 
 ### Présentations 2020/2021
