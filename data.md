@@ -23,6 +23,7 @@ Cette page référence des modèles 3D disponibles. N'hésitez pas à nous conta
 
 # Autres modèles (hors France)
   * Liste mise en place par Volker Coors, HFT Stuttgart : https://www.coors-online.de/standards/3d-portrayal-service/3dps-test-data-sets/
+  * Liste très complète mise en place par L'université Technique Delft (TU Delft) : https://3d.bk.tudelft.nl/opendata/opencities/
 ## Données du territoire Genevois
   * Lien : https://ge.ch/sitg/actualites/les-donnees-du-sitg-sont-disponibles-pour-le-bim-en-beta-test
   * Données fournies au format CityGML, mais aussi IFC (mais pas d'intérieurs de bâtiments)
