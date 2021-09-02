@@ -20,7 +20,11 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 * 05/05/2022 - 12h30 
 
-* 07/04/2022 - 12h30 
+* 07/04/2022 - 12h30
+
+   *  Adeline Manuel - MAP CNRS - Aioli, une plateforme d'annotation sémantique pour la documentation collaborative d'objets patrimoniaux. 
+
+  ![Image](2021_Avril_Manuel_aioli-tablette.jpg)
 
 * 03/03/2022 - 12h30 
 
