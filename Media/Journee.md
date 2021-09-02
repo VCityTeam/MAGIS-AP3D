@@ -7,15 +7,15 @@ Utiliser ces données amène le spécialiste de l'information géographique à d
 Favoriser les échanges entre les deux communautés du GDR Magis et du GDR IG-RV est l'objectifs de la journée d'étude que nous souhaitons mettre en place. Il s'agit d'une rencontre, le temps d'une demi-journée. Elle vient en complément du [Webinaire 3D mis en place par le GDR Magis depuis un an](https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/README.md) et qui regroupe à chaque session entre 20 et 50 personnes. Il s'agit ici d'un premier test qui pourrait s'inscrire dans une programmation bi-annuelle si le nombre de proposition est important. 
 Afin de favoriser ces échanges, nous proposons de mixer deux types d'exposés : des exposés invités et des propositions qui pourraient être faits par la communauté et des plages de 20 min pourraient être réservées (exposé + questions). 
 
-Si vous êtes intéressé par cette initiative qui pourrait se dérouler (a priori en distanciel) dans la deuxième quinzaine de juin 2021, n'hésitez pas à vous joindre à nous (au sein du comité d'organisation), ou déjà pour faire une proposition d'exposé.   
+Si vous êtes intéressé par cette initiative qui pourrait se dérouler sur le premier semestre 2022, n'hésitez pas à vous joindre à nous (au sein du comité d'organisation), ou déjà pour faire une proposition d'exposé.   
 
 Nous restons à votre disposition pour échanger 
 Myriam Servières (AAU, Nantes), (myriam.servieres@ec-nantes.fr), Sidonie Christophe (LASTIG, Marne la vallée)(sidonie.christophe@ign.fr) ou Gilles Gesquière (LIRIS, Lyon) (gilles.gesquiere@liris.cnrs.fr)
 
 
 ### Informations (à venir)
-  * Date planifiée : deuxième quinzaine de juin 2021
-  * Lieu : en distanciel, sinon sur Lyon
+  * Date planifiée : Premier semstre 2022
+  * Lieu : Eventuellement sur Lyon
   * Modalités
     * Journée/ demi-journée d'échange
     * Exposés et une table ronde
