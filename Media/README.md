@@ -26,7 +26,11 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
   ![Image](2021_Avril_Manuel_aioli-tablette.jpg)
 
-* 03/03/2022 - 12h30 
+* 03/03/2022 - 12h30
+
+   *  Mickaël Brasebin - Agence alpine des territoires - Simuler l'impact de la réglementation urbaine sur la morphologie du bâti
+
+ 
 
 * 03/02/2022 - 12h30 
 
