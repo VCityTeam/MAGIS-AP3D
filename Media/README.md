@@ -37,6 +37,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 *  06/01/2022 - 12h30
  
 *  02/12/2021 - 12h30
+   * Abdoulaye Diakite - Faculty of Built Environment, UNSW, Sydney, Australia- Modélisation 3D unifiée de l'espace pour une navigation intérieure/extérieure fluide.   
 
 *  04/11/2021 - 12h30
    *  Thibaud Chassin - HEIG-VD / EPFL - 3D et e-participation dans l'aménagement du territoire.
