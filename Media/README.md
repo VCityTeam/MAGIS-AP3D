@@ -19,7 +19,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 * 02/06/2022 - 12h30 
 
 * 05/05/2022 - 12h30 
-  * Adrien Peytavie- LIRIS CNRS- Titre à déinfir (Construction de mondes virtuels par Génération procédurale)
+  * Adrien Peytavie- LIRIS CNRS- Titre à définir (Construction de mondes virtuels par Génération procédurale)
 
 * 07/04/2022 - 12h30
 
