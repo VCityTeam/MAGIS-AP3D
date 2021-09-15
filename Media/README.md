@@ -53,7 +53,9 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](2021_Chassin_Image.png)
  
 *  07/10/2021 - 12h30
-   *  Mathieu Brédif - LASTIG - Reconstruction et rendu 3D.
+   *  Mathieu Brédif - LASTIG - Navigation immersive dans des photographies historiques.
+   
+   ![Image](2021_Bredif_Image.jpg)
 
 ### Présentations 2020/2021
 * 01/07/2021 - 12h30
