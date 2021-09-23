@@ -31,7 +31,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
    *  Mickaël Brasebin - Agence alpine des territoires - Simuler l'impact de la réglementation urbaine sur la morphologie du bâti
 
-![Image](https://simplu3d.github.io/img/background/back2.png) 
+![Image](2021_Brasebin.png) 
 
 * 03/02/2022 - 12h30 
 
