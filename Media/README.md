@@ -1,5 +1,5 @@
 #  Webinar 3D et geospatial
-Le Webinar 3D « autour de la 3D » est organisées par le [GDR CNRS MAGIS](http://gdr-magis.imag.fr/) (Actions Prospectives "Données 3D géospatiales" et "Géo-visualisation & Cognition"). 
+Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](http://gdr-magis.imag.fr/) et le [GDR CNRS IG-RV](https://gdr-igrv.icube.unistra.fr/index.php/Accueil). 
 
  Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu et visualisation.
  
@@ -19,7 +19,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 * 02/06/2022 - 12h30 
 
 * 05/05/2022 - 12h30 
-  * Adrien Peytavie- LIRIS CNRS- Titre à définir (Construction de mondes virtuels par Génération procédurale)
+  * Adrien Peytavie- LIRIS CNRS- Construction de mondes virtuels par Génération procédurale
 
 * 07/04/2022 - 12h30
 
@@ -40,7 +40,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
 
 *  06/01/2022 - 12h30
-  * Option Xavier Granier (à confirmer)
+  * Xavier Granier - Labri, bordeaux- Les challenges de la 3D pour l'étude du patrimoine
  
 *  02/12/2021 - 12h30
    * Abdoulaye Diakite - Faculty of Built Environment, UNSW, Sydney, Australia- Modélisation 3D unifiée de l'espace pour une navigation intérieure/extérieure fluide.  
