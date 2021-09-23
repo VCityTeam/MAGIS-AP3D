@@ -19,7 +19,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 * 02/06/2022 - 12h30 
 
 * 05/05/2022 - 12h30 
-  * Adrien Peytavie- LIRIS CNRS- Construction de mondes virtuels par Génération procédurale
+  * Adrien Peytavie- LIRIS CNRS- Construction de mondes virtuels par génération procédurale
 
 * 07/04/2022 - 12h30
 
@@ -40,7 +40,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
 
 *  06/01/2022 - 12h30
-  * Xavier Granier - Labri, bordeaux- Les challenges de la 3D pour l'étude du patrimoine
+  * Xavier Granier - Labri, Bordeaux- Les challenges de la 3D pour l'étude du patrimoine
  
 *  02/12/2021 - 12h30
    * Abdoulaye Diakite - Faculty of Built Environment, UNSW, Sydney, Australia- Modélisation 3D unifiée de l'espace pour une navigation intérieure/extérieure fluide.  
