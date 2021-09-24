@@ -12,6 +12,8 @@ Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](htt
  Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
+### *** Un lien de connexion pour un Webinar en visio sera donné très prochainement ***
+
 ### Présentations 2021/2022 (Programme en cours de construction!)
 
 * 07/07/2022 - 12h30 
