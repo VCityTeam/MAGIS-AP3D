@@ -45,6 +45,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
 
 *  06/01/2022 - 12h30
+  
   * Xavier Granier - Labri, Bordeaux- Les challenges de la 3D pour l'étude du patrimoine
  
 *  02/12/2021 - 12h30
