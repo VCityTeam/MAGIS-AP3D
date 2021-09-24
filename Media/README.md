@@ -20,6 +20,8 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
    *  Nicolas Mellado - IRIT CNRS - Réseaux de neurones pour le traitement de nuages de points 3d acquis: approches rapides, robustes, et à faible impact énergétique.
   
+   ![Image](2021_Mellado.png)
+   
 * 05/05/2022 - 12h30 
   
   * Adrien Peytavie- LIRIS CNRS- Construction de mondes virtuels par génération procédurale.
@@ -46,8 +48,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
   * Xavier Granier - Labri, Bordeaux- Les challenges de la 3D pour l'étude du patrimoine
  
 *  02/12/2021 - 12h30
-   * Abdoulaye Diakite - Faculty of Built Environment, UNSW, Sydney, Australia- Modélisation 3D unifiée de l'espace pour une navigation intérieure/extérieure fluide.  
-   
+   * Abdoulaye Diakite - Faculty of Built Environment, UNSW, Sydney, Australia- Modélisation 3D unifiée de l'espace pour une navigation intérieure/extérieure fluide.    
    ![Image](2021_Diakite_Abdou_Img.png)
 
 *  04/11/2021 - 12h30
@@ -56,7 +57,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](2021_Chassin_Image.png)
  
 *  07/10/2021 - 12h30
-   *  Mathieu Brédif - LASTIG - Navigation immersive dans des photographies historiques.
+   *  Mathieu Brédif - LASTIG - Navigation immersive dans des photographies historiques (ANR ALEGORIA).
    
    ![Image](2021_Bredif_Image.jpg)
 
