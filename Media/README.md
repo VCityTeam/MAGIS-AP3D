@@ -134,5 +134,4 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
     * Maxim Spur – AAU/CRENAU - [Immersive Visualization of Multilayered Geospatial Urban Data](20191003_Webinar3D_MAGIS_ImmersiveVisualization_Spur.pdf)
 
     ![Image](20191003_Webinar3D_MAGIS_ImmersiveVisualization_Spur.png) 
-    
-Ⓒ MAGIS – Groupement de Recherche 2340 du CNRS (2017-2021)
+ 
