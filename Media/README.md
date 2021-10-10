@@ -61,7 +61,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](2021_Chassin_Image.png)
  
 *  07/10/2021 - 12h30
-   *  Mathieu Brédif - LASTIG - Navigation immersive dans des photographies historiques (ANR ALEGORIA).
+   *  Mathieu Brédif - LASTIG - [Navigation immersive dans des photographies historiques (ANR ALEGORIA)](webinar_magis_igrv_bredif_20211007.pdf)
    
    ![Image](2021_Bredif_Image.jpg)
 
