@@ -37,3 +37,4 @@ Cette page référence des modèles 3D disponibles. N'hésitez pas à nous conta
 ## Données du territoire Genevois
   * Lien : https://ge.ch/sitg/actualites/les-donnees-du-sitg-sont-disponibles-pour-le-bim-en-beta-test
   * Données fournies au format CityGML, mais aussi IFC (mais pas d'intérieurs de bâtiments)
+  * Un maillage 3D géoréférencé et texturé a pu être calculé à partir de la campagne d'acquisition des images aériennes brutes nadirales et obliques orientées réalisée en 2019. Le calcul du photomaillage 3D texturé exploite la pleine résolution des images aériennes, à 7 cm de résolution. Les nuages de points bruts LiDAR du canton de Genève sont utilisés pour améliorer automatiquement le photomaillage 3D. obtenu à partir de ortho et photo : https://sitg.maps.arcgis.com/apps/webappviewer3d/index.html?id=77e53e5a6a97466bb55611acf56bbaf5
