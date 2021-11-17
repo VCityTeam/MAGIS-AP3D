@@ -58,7 +58,7 @@ de Notre-Dame de Paris” - 45’ + 15’ questions.
 * 11h45-12h15: discussions sur les défis et besoins
 
 Après midi :
-* 14h-16h : TP iTowns
+* 14h-16h : [TP iTowns](tp_iTowns)
 * 16h-16h30 : Conclusion des deux journées (organisateurs)
 
 ## Date et lieu :
