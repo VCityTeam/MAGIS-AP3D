@@ -23,7 +23,7 @@ installations suivantes :
 
 - **NodeJS / Npm** que vous pouvez télécharger [ici](https://nodejs.org/en/download/).
   Vous devez disposer d'une version de _NodeJS_ postérieure à la version 10 (vous pouvez vérifier la version installée sur votre 
-  machine en executant la commande `node -- version` dans un terminal ou une invite de commande).
+  machine en executant la commande `node --version` dans un terminal ou une invite de commande).
   _Npm_ est installé par défaut avec _NodeJS_.
 - **La dernière release d'iTowns**, disponible à [ce lien](https://github.com/iTowns/itowns/releases) (vous pourrez 
   télécharger le répertoire _"bundles.zip"_ en bas de la description de la release).
