@@ -43,7 +43,7 @@ Landrieu, LASTIG - 45’ + 15’ questions
 fournir un transparent au format pdf de présentation de sa thématique /
 problématique selon une trame qui sera précisée par les organisateurs.
   * 15h30-16h : pause café
-  * 16h-18h : TP “Deep Learning for 3D Data: Semantic Segmentation of Aerial LiDAR with PointNet”, par Loïc Landrieu, LASTIG (Note: afin de préparer ce TP, il vous sera demandé de compléter un auto-test)
+  * 16h-18h : TP “Deep Learning for 3D Data: Semantic Segmentation of Aerial LiDAR with PointNet”, par Loïc Landrieu, LASTIG (Note: afin de préparer ce TP, il vous sera demandé de compléter un [auto-test](https://colab.research.google.com/drive/1UTl84XwGOWHBfMhNjzhox_bvMjMbgGDJ?usp=sharing)
 
 ### Jeudi 25 Novembre: Traiter, annoter et visualiser des données 3D
  
