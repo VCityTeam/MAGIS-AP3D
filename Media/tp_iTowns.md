@@ -27,3 +27,5 @@ installations suivantes :
   _Npm_ est installé par défaut avec _NodeJS_.
 - **La dernière release d'iTowns**, disponible à [ce lien](https://github.com/iTowns/itowns/releases) (vous pourrez 
   télécharger le répertoire _"bundles.zip"_ en bas de la description de la release).
+- Afin de ne pas surcharger le réseau, il est demandé aux participants de bien vouloir télécharger quelques données que nous utiliserons durant la présentation.
+  Ces données sont accessibles à [ce lien](https://github.com/mgermerie/data-iTowns-presentation/tree/master).
