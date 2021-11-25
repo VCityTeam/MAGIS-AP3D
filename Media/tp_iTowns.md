@@ -29,3 +29,6 @@ installations suivantes :
   télécharger le répertoire _"bundles.zip"_ en bas de la description de la release).
 - Afin de ne pas surcharger le réseau, il est demandé aux participants de bien vouloir télécharger quelques données que nous utiliserons durant la présentation.
   Ces données sont accessibles à [ce lien](https://github.com/mgermerie/data-iTowns-presentation/tree/master).
+
+
+Les supports de TP sont accessibles à [ce lien](https://mgermerie.github.io/itowns/docs/out/#home).
