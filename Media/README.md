@@ -57,7 +57,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    ![Image](2021_Diakite_Abdou_Img.png)
 
 *  04/11/2021 - 12h30
-   *  Thibaud Chassin - HEIG-VD / EPFL - 3D et e-participation dans l'aménagement du territoire.
+   *  Thibaud Chassin - HEIG-VD / EPFL - [3D et e-participation dans l'aménagement du territoire](20211104_Webinar3D_MAGIS_Regards_on_3D_Participatory_E-Planning_Through_3_Project_Proposals_Thibaud_Chassin.pdf)
    
    ![Image](2021_Chassin_Image.png)
  
