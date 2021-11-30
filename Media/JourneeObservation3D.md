@@ -50,7 +50,7 @@ problématique selon une trame qui sera précisée par les organisateurs.
  Matin :
  * 9h-9h15 : Accueil des participants
  * 9h15-9h30 : Introduction de la journée
- * 9h30-10h30 : Mathieu Brédif - LASTIG, Université Gustave Eiffel, IGN-ENSG - “Navigation immersive dans des images historiques (ANR ALEGORIA)” - 45’ + 15’
+ * 9h30-10h30 : Mathieu Brédif - LASTIG, Université Gustave Eiffel, IGN-ENSG - “[Navigation immersive dans des images historiques (ANR ALEGORIA)](gdr_bredif_20211125.pdf)” - 45’ + 15’
 questions-.
  * 10h30-10h45 : pause café
  * 10h45-11h45 : Livio de Luca - UMR MAP, CNRS (en Visio) - “Enrichissement sémantique de ressources documentaires spatialisées pour l’étude pluridisciplinaire
