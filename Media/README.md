@@ -53,7 +53,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
   * Xavier Granier - Labri, Bordeaux- Les challenges de la 3D pour l'étude du patrimoine
  
 *  02/12/2021 - 12h30
-   * Abdoulaye Diakite - Faculty of Built Environment, UNSW, Sydney, Australia- Modélisation 3D unifiée de l'espace pour une navigation intérieure/extérieure fluide.    
+   * Abdoulaye Diakite - Faculty of Built Environment, UNSW, Sydney, Australia- [Modélisation 3D unifiée de l'espace pour une navigation intérieure/extérieure fluide.](2021__12_02_Abdou_Modelisation_Unifiee_Navigation.pdf)
    ![Image](2021_Diakite_Abdou_Img.png)
 
 *  04/11/2021 - 12h30
