@@ -13,7 +13,7 @@ Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](htt
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
 ### Voici le lien pour vous connecter (Attention, ce lien pourra changer d'un mois à l'autre)
-  * https://ec-nantes.zoom.us/j/99904313650   Code secret : 6d&kwfN@ 
+  * https://ec-nantes.zoom.us/j/96084452785  Code secret : maGIS#2022
 
 
 ### Présentations 2021/2022 (Programme en cours de construction!)
