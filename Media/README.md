@@ -50,7 +50,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 *  06/01/2022 - 12h30
   
-   * Xavier Granier - Labri, Bordeaux- Les challenges de la 3D pour l'étude du patrimoine
+   * Xavier Granier - L2PN, Bordeaux- Les challenges de la 3D pour l'étude du patrimoine
      
      ![Image](2022_01_04_X_Granier_img.jpg)
  
