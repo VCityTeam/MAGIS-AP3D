@@ -44,7 +44,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 * 03/02/2022 - 12h30 
 
-   *  Florence Jacquinod - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
+   *  Florence Jacquinod & Adeline Deprêtre - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
    
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
 
