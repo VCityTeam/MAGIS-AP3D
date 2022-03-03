@@ -18,7 +18,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 * ID de réunion : 960 8445 2785
 * Code secret : maGIS#2022
 
-### Présentations 2021/2022 (Programme en cours de construction!)
+### Présentations 2021/2022 
 
 * 07/07/2022 - 12h30 
 
