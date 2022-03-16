@@ -15,10 +15,10 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 ### Voici le lien pour vous connecter (Attention, ce lien pourra changer d'un mois à l'autre)
  !!!! ATTENTION - présentation du 17/03/22 Annulée !!!!!
  
- * https://ec-nantes.zoom.us/j/96084452785
+<!-- * https://ec-nantes.zoom.us/j/96084452785
 
 * ID de réunion : 960 8445 2785
-* Code secret : maGIS#2022
+* Code secret : maGIS#2022 -->
 
 ### Présentations 2021/2022 
 
