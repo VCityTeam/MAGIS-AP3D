@@ -35,7 +35,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
    
 * 05/05/2022 - 12h30 
   
-  * Adrien Peytavie- LIRIS CNRS- Construction de mondes virtuels par génération procédurale.
+  * Adrien Peytavie- LIRIS CNRS- [Construction de mondes virtuels par génération procédurale](2022_05_05_A_Peytavie_Webinar_Roads_2022.pdf)
 
 * 07/04/2022 - 12h30
 
