@@ -43,7 +43,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
   ![Image](2021_Avril_Manuel_aioli-tablette.jpg)
 
-* #### NEXT: 17/03/2022 (report du 03/03/2022) - 12h30
+* 17/03/2022 (report du 03/03/2022) - 12h30 - Annulé
 
    *  Mickaël Brasebin - Agence alpine des territoires - Simuler l'impact de la réglementation urbaine sur la morphologie du bâti
 
@@ -51,7 +51,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 * 03/02/2022 - 12h30 
 
-   *  Florence Jacquinod & Adeline Deprêtre - Lastig, Univ. G. Eiffel - Usages d'un CIM 3D pour l'aménagement (projet La Vallée, ISite-Eiffage).
+   *  Florence Jacquinod & Adeline Deprêtre - Lastig, Univ. G. Eiffel - [Usages d'un CIM 3D pour l'aménagement -projet La Vallée, ISite-Eiffage](2022_02_MAGIS_Depretre_Jacquinod_E3S.pdf)
    
    ![Image](202105_Webinar3D_MAGIS_CIM_Florence.png)
 
