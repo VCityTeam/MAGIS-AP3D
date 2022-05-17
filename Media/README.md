@@ -26,6 +26,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 ### Présentations 2021/2022 
 
 * 07/07/2022 - 12h30 
+  * Clément Colin, Corentin Gautier, Diégo Vinasco - LIRIS CNRS - Urban Data, services and visualizations  
 
 * 02/06/2022 - 12h30 
 
@@ -43,7 +44,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
   ![Image](2021_Avril_Manuel_aioli-tablette.jpg)
 
-* 17/03/2022 (report du 03/03/2022) - 12h30 - Annulé
+* 03/03/2022 - 12h30 - Annulé
 
    *  Mickaël Brasebin - Agence alpine des territoires - Simuler l'impact de la réglementation urbaine sur la morphologie du bâti
 
