@@ -29,7 +29,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 * 02/06/2022 - 12h30 
 
-   *  Nicolas Mellado - IRIT CNRS - Réseaux de neurones pour le traitement de nuages de points 3d acquis: approches rapides, robustes, et à faible impact énergétique.
+   *  Nicolas Mellado - IRIT CNRS - [Réseaux de neurones pour le traitement de nuages de points 3d acquis: approches rapides, robustes, et à faible impact énergétique](2022_06_webinar_Mellado_compr.pdf).
   
    ![Image](2021_Mellado.png)
    
