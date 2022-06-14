@@ -42,7 +42,7 @@ Cette page référence des modèles 3D disponibles. N'hésitez pas à nous conta
 
 
 # Modèles proposés par la communauté de recherche 
-  * 3D-Acquired Research Dataset (3D-ARD) 
+  * 3D-Acquired Research Dataset [3D-ARD](https://3dard.cnrs.fr/) 
     * 3D-ARD is a research-oriented collection of complex and large-scale 3D objects and scenes, acquired and processed using state of the art hardware and software. Its goal is to bridge the gap between computer scientists (who develop acquisition and processing tools) and practitioners (who generate and work daily with these data), by providing high-quality data representative of practitioners usages.
      * Data can be downloaded at: https://www.archeogrid.fr/project/6762
      * Python API to ease data and metadata download: https://github.com/3D-ARD/python-module
