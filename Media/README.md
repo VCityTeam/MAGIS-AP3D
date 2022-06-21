@@ -23,17 +23,17 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 * Code secret : maGIS#2022 -->
 
 ### Présentations 2022/ 2023 (programme en cours de construction)
- * 6 octobre - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com)
- * 3 novembre
- * 1er décembre
- * 5 janvier
- * 2 février
- * 2 mars
- * 6 avril
- * 4 mai
- * 1er juin
- * 6 juillet
 
+ * 6 juillet 2023
+ * 1er juin 2023
+ * 4 mai 2023
+ * 6 avril 2023
+ * 2 mars 2023
+ * 2 février 2023
+ * 5 janvier 2023
+ * 1er décembre 2022
+ * 3 novembre 2022
+ * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com)
 
 ### Présentations 2021/2022 
 
