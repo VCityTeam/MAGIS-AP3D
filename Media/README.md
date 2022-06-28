@@ -31,7 +31,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
  * 2 mars 2023
  * 2 février 2023
  * 5 janvier 2023
- * 1er décembre 2022
+ * 1er décembre 2022 - 12h30 Iris De Gelis (OBELIX-IRISA) "3D point clouds change detection: from supervised to unsupervised deep learning methods"
  * 3 novembre 2022
  * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com)
 
