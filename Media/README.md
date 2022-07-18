@@ -16,12 +16,6 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
  * Réunion Microsoft Teams 
  * [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGE4YzJmYmItNTc4NC00NDYxLWI2ZTAtYWRhYTdmZWQ5NDUw%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d)
 
- 
-<!-- * https://ec-nantes.zoom.us/j/96084452785
-
-* ID de réunion : 960 8445 2785
-* Code secret : maGIS#2022 -->
-
 ### Présentations 2022/ 2023 (programme en cours de construction)
 
  * 6 juillet 2023
@@ -40,6 +34,7 @@ Qualification par apprentissage automatique de la perception de l'espace urbain 
 
 * 07/07/2022 - 12h30 
   * Clément Colin, Corentin Gautier, Diégo Vinasco - LIRIS CNRS - [Urban Data, services and visualizations](2022_07_07_UDSV_Urban_Data_Services_and_Visualizations.pdf)  
+  ![Image](2022_07_Colin_Gautier_Vinsaco.jpg) 
 
 * 02/06/2022 - 12h30 
 
