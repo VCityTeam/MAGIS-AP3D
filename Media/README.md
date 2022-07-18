@@ -39,7 +39,7 @@ Qualification par apprentissage automatique de la perception de l'espace urbain 
 ### Présentations 2021/2022 
 
 * 07/07/2022 - 12h30 
-  * Clément Colin, Corentin Gautier, Diégo Vinasco - LIRIS CNRS - Urban Data, services and visualizations  
+  * Clément Colin, Corentin Gautier, Diégo Vinasco - LIRIS CNRS - [Urban Data, services and visualizations](2022_07_07_UDSV_Urban_Data_Services_and_Visualizations.pdf)  
 
 * 02/06/2022 - 12h30 
 
