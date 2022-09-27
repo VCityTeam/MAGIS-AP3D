@@ -13,8 +13,10 @@ Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](htt
 Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
 ### Voici le lien pour vous connecter (Attention, ce lien pourra changer d'un mois à l'autre)
- * Réunion Microsoft Teams 
+ <!-- * Réunion Microsoft Teams 
  * [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGE4YzJmYmItNTc4NC00NDYxLWI2ZTAtYWRhYTdmZWQ5NDUw%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d)
+-->
+* Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2022
 
 ### Présentations 2022/ 2023 (programme en cours de construction)
 
@@ -28,7 +30,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
  * 1er décembre 2022 - 12h30 Iris De Gelis (OBELIX-IRISA) "3D point clouds change detection: from supervised to unsupervised deep learning methods"
  * 10 novembre 2022 - 12h30 [Benjamin Beaucamp, AAU-CRENAU](https://aau.archi.fr/equipe/beaucamp-benjamin/) "Vers une visualisation située d’une cartographie sensible des villes -
 Qualification par apprentissage automatique de la perception de l'espace urbain par un piéton en mobilité"
- * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com)
+ * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com) "Research at the Urban Analytics Lab in Singapore" 
 
 ### Présentations 2021/2022 
 
