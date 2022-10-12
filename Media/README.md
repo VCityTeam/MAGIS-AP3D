@@ -30,7 +30,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
  * 1er décembre 2022 - 12h30 Iris De Gelis (OBELIX-IRISA) "3D point clouds change detection: from supervised to unsupervised deep learning methods"
  * 10 novembre 2022 - 12h30 [Benjamin Beaucamp, AAU-CRENAU](https://aau.archi.fr/equipe/beaucamp-benjamin/) "Vers une visualisation située d’une cartographie sensible des villes -
 Qualification par apprentissage automatique de la perception de l'espace urbain par un piéton en mobilité"
- * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com) "Research at the Urban Analytics Lab in Singapore" 
+ * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com) "Research at the Urban Analytics Lab in Singapore"[[slides]](20221006_Biljecki_UAL_compressed.pdf) 
 
 ### Présentations 2021/2022 
 
