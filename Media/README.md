@@ -29,7 +29,8 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
  * 5 janvier 2023 - 12h30 [Mohamed Amin Hammami,  Imam Abdulrahman Bin Faisal University. Dammam, KSA](https://www.geomatics-cc-mah.com/rig) Vers un observatoire acoustique et psychoacoustique de paysages sonores en milieu urbain
  * 1er décembre 2022 - 12h30 Iris De Gelis (OBELIX-IRISA) "3D point clouds change detection: from supervised to unsupervised deep learning methods"
  * 10 novembre 2022 - 12h30 [Benjamin Beaucamp, AAU-CRENAU](https://aau.archi.fr/equipe/beaucamp-benjamin/) "Vers une visualisation située d’une cartographie sensible des villes -
-Qualification par apprentissage automatique de la perception de l'espace urbain par un piéton en mobilité"
+Qualification par apprentissage automatique de la perception de l'espace urbain par un piéton en mobilité" [[slides]](20221110_Webinar3D_BEAUCAMP_AAU_Cartographie_sensible_des_villes)
+![Image](20221110_BEAUCAMP.png)
  * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com) "Research at the Urban Analytics Lab in Singapore"[[slides]](20221006_Biljecki_UAL_compressed.pdf) 
 ![Image](20221006_Biljecki_UAL.png)
 
