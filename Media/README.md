@@ -27,7 +27,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 ![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
  * 6 avril 2023 - 12h30
  * 2 mars 2023 - 12h30 [Valerio Signorelli (UCL)](https://www.ucl.ac.uk/bartlett/casa/valerio-signorelli)
- * 2 février 2023 - 12h30 [Barbara Piga, Polimi](http://www.labsimurb.polimi.it/about-2/people/barbara-piga/)
+ * 2 février 2023 - 12h30 [Barbara Piga, Polimi](http://www.labsimurb.polimi.it/about-2/people/barbara-piga/) "X-Realty for supporting Human-Centered Design"
  * 5 janvier 2023 - 12h30 [Mohamed Amin Hammami,  Imam Abdulrahman Bin Faisal University. Dammam, KSA](https://www.geomatics-cc-mah.com/rig) "Vers un observatoire acoustique et psychoacoustique de paysages sonores en milieu urbain" [[slides](20230105_Webinar3D_MAGIS_PaysagesSonores_Hammami.pdf)] 
  
  ![Image](20230105_Webinar3D_MAGIS_PaysagesSonores_Hammami.png)
