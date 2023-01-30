@@ -13,7 +13,7 @@ Cette page référence des modèles 3D disponibles. N'hésitez pas à nous conta
 ## Maquette 3D de Montpellier
   * Localisatin : Montpellier
   * Lien :  - https://data.montpellier3m.fr/dataset/photomodele-3d-urbain-de-la-ville-de-montpellier
-  * Formats : , 6,3 Go skp v8
+  * Formats : skp, dxf
   * Mis à disposition : mars 2016
 
 
