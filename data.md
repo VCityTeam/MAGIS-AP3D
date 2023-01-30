@@ -3,6 +3,20 @@ Cette page référence des modèles 3D disponibles. N'hésitez pas à nous conta
 
 # Modèles en France
 
+## Maquette 3D Pays de Brest
+  * Localisation : Brest
+  * Lien:  https://geo.pays-de-brest.fr/zapp/Pages/Donnees3D.aspx
+  * Format : 3ds, obj
+  * Des données couvrant un territoire de plus de 220 KM2, composées d'un modèle numérique de terrain, de 73 000 bâtiments, de sites et ouvrages remarquables, d'éléments de sursol (Arbres, murs, quais, clôtures, haies, escaliers, ...)
+
+
+## Maquette 3D de Montpellier
+  * Localisatin : Montpellier
+  * Lien :  - https://data.montpellier3m.fr/dataset/photomodele-3d-urbain-de-la-ville-de-montpellier
+  * Formats : , 6,3 Go skp v8
+  * Mis à disposition : mars 2016
+
+
 ## Maquette 3D sur l'Open data de la métropole de Lyon
   * Localisation : Métropole de Lyon  
   * Lien : https://data.grandlyon.com/jeux-de-donnees/maquettes-3d-texturees-2018-communes-metropole-lyon/info (avec pour exemple la maquette 2018)
