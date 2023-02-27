@@ -26,7 +26,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 ![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
  * 6 avril 2023 - 12h30
- * 2 mars 2023 - 12h30 [Valerio Signorelli (UCL)](https://www.ucl.ac.uk/bartlett/casa/valerio-signorelli)
+ * 2 mars 2023 - 12h30 ~[Valerio Signorelli (UCL)](https://www.ucl.ac.uk/bartlett/casa/valerio-signorelli)~ **reporté**
  * 2 février 2023 - 12h30 [Barbara Piga, Polimi](http://www.labsimurb.polimi.it/about-2/people/barbara-piga/) "X-Realty for supporting Human-Centered Design"
  
   ![Image](20230202_Webinar3D_MAGIS_Piga.png)
