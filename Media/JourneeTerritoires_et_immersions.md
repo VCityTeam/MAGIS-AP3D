@@ -24,6 +24,8 @@ contact : territoires_et_immersions@crenau.archi.fr
 
 Merci de faire parvenir vos propositions de présentations à territoires_et_immersions@crenau.archi.fr sous forme d'un abstract ~500 mots avant le *21 avril 2023*
 
+Le programme sera diffusé le 25 avril 2023. Il est prévu une démonstration de l'outil d'immersion [Coraulis](https://aau.archi.fr/contrat-de-recherche/coraulis-centre-dobservation-en-realite-augmentee-et-lieu-dimmersion-sonore/) 
+
 La participation gratuite mais l'inscription est obligatoire auprès de territoires_et_immersions@crenau.archi.fr
 
 Organisateurs : Myriam Servières, Vincent Tourre, Violette Abergel, Xavier Granier, Mehdi Chayani
