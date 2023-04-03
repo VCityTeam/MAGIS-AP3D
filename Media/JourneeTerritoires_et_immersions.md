@@ -29,3 +29,4 @@ Le programme sera diffusé le 25 avril 2023. Il est prévu une démonstration de
 La participation gratuite mais l'inscription est obligatoire auprès de territoires_et_immersions@crenau.archi.fr
 
 Organisateurs : Myriam Servières, Vincent Tourre, Violette Abergel, Xavier Granier, Mehdi Chayani
+Comité d'organisation local : Véronique Dom
