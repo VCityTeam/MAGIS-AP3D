@@ -26,6 +26,8 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
 ![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
  * 6 avril 2023 - 12h30 [Corentin GAUTIER]( https://liris.cnrs.fr/page-membre/corentin-gautier) – [LIRIS]( https://liris.cnrs.fr/), [Projet VCity](https://projet.liris.cnrs.fr/vcity/) – « Intégration de multimédia dans une maquette 3D de la ville pour une meilleur compréhension des territoires »
+![Image](2023_04_06_Webinar_Corentin_Gautier_Liris.png)
+
  * 2 mars 2023 - 12h30 ~[Valerio Signorelli (UCL)](https://www.ucl.ac.uk/bartlett/casa/valerio-signorelli)~ **reporté**
  * 2 février 2023 - 12h30 [Barbara Piga, Polimi](http://www.labsimurb.polimi.it/about-2/people/barbara-piga/) "X-Realty for supporting Human-Centered Design"
  
