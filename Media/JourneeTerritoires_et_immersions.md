@@ -31,3 +31,5 @@ La participation gratuite mais l'inscription est obligatoire auprès de territoi
 Organisateurs : Myriam Servières, Vincent Tourre, Violette Abergel, Xavier Granier, Mehdi Chayani
 
 Comité d'organisation local : Véronique Dom
+
+[Inscription avant le 5/5/23](https://docs.google.com/forms/d/e/1FAIpQLSdZgRGZ4dQEVFu8TmufsqpEH5O1F6PsyZMt4hV3Gb6l1aKKgg/viewform?usp=sf_link)
