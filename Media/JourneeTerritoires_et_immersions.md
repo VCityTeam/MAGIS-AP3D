@@ -23,15 +23,47 @@ Liste de thèmes (non exhaustif) :
 - Visualisation sur site
 
 contact : territoires_et_immersions@crenau.archi.fr
+<!--- Merci de faire parvenir vos propositions de présentations à territoires_et_immersions@crenau.archi.fr sous forme d'un abstract ~500 mots avant le *21 avril 2023*
 
-Merci de faire parvenir vos propositions de présentations à territoires_et_immersions@crenau.archi.fr sous forme d'un abstract ~500 mots avant le *21 avril 2023*
+Le programme sera diffusé le 25 avril 2023. 
+-->
 
-Le programme sera diffusé le 25 avril 2023. Il est prévu une démonstration de l'outil d'immersion [Coraulis](https://aau.archi.fr/contrat-de-recherche/coraulis-centre-dobservation-en-realite-augmentee-et-lieu-dimmersion-sonore/) 
-
-La participation gratuite mais l'inscription est obligatoire auprès de territoires_et_immersions@crenau.archi.fr
+Il est prévu une démonstration de l'outil d'immersion [Coraulis](https://aau.archi.fr/contrat-de-recherche/coraulis-centre-dobservation-en-realite-augmentee-et-lieu-dimmersion-sonore/) 
 
 Organisateurs : Myriam Servières, Vincent Tourre, Violette Abergel, Xavier Granier, Mehdi Chayani
 
 Comité d'organisation local : Véronique Dom
 
-[Inscription avant le 5/5/23](https://docs.google.com/forms/d/e/1FAIpQLSdZgRGZ4dQEVFu8TmufsqpEH5O1F6PsyZMt4hV3Gb6l1aKKgg/viewform?usp=sf_link)
+
+
+## Programme
+
+9h30 - Accueil, café
+
+10h - 12h : Session 1 - Cas d'applications
+
+- La réalité virtuelle pour la préservation d’un sport traditionnel, le Jeu de Paume - Ronan Gaugne et Valérie Gouranton
+- Reconstitution du paysage urbain des villes portuaires de la Méditerranée romaine - Stéphanie Mailleur
+- Opportunités pour les géovisualisations situées - Maria-Jesus Lobo-Gunther
+- Réalité virtuelle et villes côtières : appropriation de l’aléa et exploration du littoral de demain par la réalité virtuelle - Sophie Madeleine 
+
+12h - 13h : Démonstrations avec CORAULIS - Laurent Lescop et Nicolas Hoüel
+
+13h - 14h : Pause Déjeuner
+
+14h - 15h : Session 2 - Applications orientées métiers
+- L’Emploi de l’Environnement Virtuel de Formation dans le cadre des mises en situation professionnelles au sein du SDIS de Loire Atlantique, Commandant Fabrice RYCKEWAERT, Capitaine Damien ERICHER SDIS44
+- Atmos, a professional tool for real-time atmospheres simulation, Nicolas Hoüel
+
+15h - 15h30 : Pause café
+
+15h30 - 16h30 : Session 3 - Interface/outils
+- Augmented sites. Exploring realities, accessibility and participation, one marker at the time - Valerio Signorelli
+- Affichage déporté d’objets géométriques structurés -  Hakim Belhaouari et Agnès Arnould
+
+16h30 - 17h : Clôture
+
+### La participation gratuite mais l'inscription est obligatoire : [Inscription avant le 5/5/23](https://docs.google.com/forms/d/e/1FAIpQLSdZgRGZ4dQEVFu8TmufsqpEH5O1F6PsyZMt4hV3Gb6l1aKKgg/viewform?usp=sf_link)
+
+
+
