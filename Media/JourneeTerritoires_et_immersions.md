@@ -45,7 +45,6 @@ Comité d'organisation local : Véronique Dom
 - La réalité virtuelle pour la préservation d’un sport traditionnel, le Jeu de Paume - Ronan Gaugne et Valérie Gouranton
 - Reconstitution du paysage urbain des villes portuaires de la Méditerranée romaine - Stéphanie Mailleur
 - Opportunités pour les géovisualisations situées - Maria-Jesus Lobo-Gunther
-- Réalité virtuelle et villes côtières : appropriation de l’aléa et exploration du littoral de demain par la réalité virtuelle - Sophie Madeleine 
 
 12h - 13h : Démonstrations avec CORAULIS - Laurent Lescop et Nicolas Hoüel
 
