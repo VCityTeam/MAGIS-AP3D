@@ -42,23 +42,23 @@ Comité d'organisation local : Véronique Dom
 
 10h - 12h : Session 1 - Cas d'applications
 
-- La réalité virtuelle pour la préservation d’un sport traditionnel, le Jeu de Paume - Ronan Gaugne et Valérie Gouranton
+- La réalité virtuelle pour la préservation d’un sport traditionnel, le Jeu de Paume - Ronan Gaugne et Valérie Gouranton [[abstract]](20230511_Gaugne-Gouranton.pdf)
 - Reconstitution du paysage urbain des villes portuaires de la Méditerranée romaine - Stéphanie Mailleur
-- Opportunités pour les géovisualisations situées - Maria-Jesus Lobo-Gunther
+- Opportunités pour les géovisualisations situées - Maria-Jesus Lobo-Gunther [[abstract]](20230511_Lobo-Gunther.pdf)
 
 12h - 13h : Démonstrations avec CORAULIS - Laurent Lescop et Nicolas Hoüel
 
 13h - 14h : Pause Déjeuner
 
 14h - 15h : Session 2 - Applications orientées métiers
-- L’Emploi de l’Environnement Virtuel de Formation dans le cadre des mises en situation professionnelles au sein du SDIS de Loire Atlantique, Commandant Fabrice RYCKEWAERT, Capitaine Damien ERICHER SDIS44
-- Atmos, a professional tool for real-time atmospheres simulation, Nicolas Hoüel
+- L’Emploi de l’Environnement Virtuel de Formation dans le cadre des mises en situation professionnelles au sein du SDIS de Loire Atlantique, Commandant Fabrice RYCKEWAERT, Capitaine Damien ERICHER SDIS44 [[abstract]](20230511_Rickewaert-Ericher.pdf)
+- Atmos, a professional tool for real-time atmospheres simulation, Nicolas Hoüel [[abstract]](20230511_Houel.pdf)
 
 15h - 15h30 : Pause café
 
 15h30 - 16h30 : Session 3 - Interface/outils
-- Augmented sites. Exploring realities, accessibility and participation, one marker at the time - Valerio Signorelli
-- Affichage déporté d’objets géométriques structurés -  Hakim Belhaouari et Agnès Arnould
+- Augmented sites. Exploring realities, accessibility and participation, one marker at the time - Valerio Signorelli [[abstract]](20230511_Signorelli.pdf)
+- Affichage déporté d’objets géométriques structurés -  Hakim Belhaouari et Agnès Arnould [[abstract]](20230511_Belhaouari-Arnould.pdf)
 
 16h30 - 17h : Clôture
 
