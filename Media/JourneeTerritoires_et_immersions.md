@@ -43,7 +43,7 @@ Comité d'organisation local : Véronique Dom
 10h - 12h : Session 1 - Cas d'applications
 
 - La réalité virtuelle pour la préservation d’un sport traditionnel, le Jeu de Paume - Ronan Gaugne et Valérie Gouranton [[abstract]](20230511_Gaugne-Gouranton.pdf)
-- Reconstitution du paysage urbain des villes portuaires de la Méditerranée romaine - Stéphanie Mailleur
+- Reconstitution du paysage urbain des villes portuaires de la Méditerranée romaine - Stéphanie Mailleur [[abstract]](20230511_Mailleur.pdf)
 - Opportunités pour les géovisualisations situées - Maria-Jesus Lobo-Gunther [[abstract]](20230511_Lobo-Gunther.pdf)
 
 12h - 13h : Démonstrations avec CORAULIS - Laurent Lescop et Nicolas Hoüel
