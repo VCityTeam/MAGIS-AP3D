@@ -22,7 +22,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
 
  * 6 juillet 2023
  * 1er juin 2023
- * 4 mai 2023 - 12h30 [Stéphanie Mailleur](https://www.aria.archi.fr/equipe/stephanie-mailleur/) et [Renato Saleri](https://www.aria.archi.fr/equipe/renato-saleri/) - [MAP-ARIA](https://www.aria.archi.fr) - "Reconstituer le paysage urbain des villes portuaires de la Méditerranée romaine : méthode d'intégration des sources historiques et archéologiques aux outils 3D"
+ * 4 mai 2023 - 12h30 [Stéphanie Mailleur](https://www.aria.archi.fr/equipe/stephanie-mailleur/) et [Renato Saleri](https://www.aria.archi.fr/equipe/renato-saleri/) - [MAP-ARIA](https://www.aria.archi.fr) - "Reconstituer le paysage urbain des villes portuaires de la Méditerranée romaine : méthode d'intégration des sources historiques et archéologiques aux outils 3D" [[slides](20230504_Webinar3D_MAGIS_villesPortuairesRomaines_Mailleur_Saleri.pdf)]
 
 ![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
  * 6 avril 2023 - 12h30 [Corentin GAUTIER]( https://liris.cnrs.fr/page-membre/corentin-gautier) – [LIRIS]( https://liris.cnrs.fr/), [Projet VCity](https://projet.liris.cnrs.fr/vcity/) – « Intégration de multimédia dans une maquette 3D de la ville pour une meilleur compréhension des territoires » [[slides]](20230406_Webinar3D_CorentinGAUTIER.pdf)
