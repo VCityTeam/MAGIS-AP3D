@@ -10,7 +10,7 @@ Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](htt
  Le Webinar 3D a pour vocation à se répéter presque tous les mois (1er jeudi du mois) sur le temps de la pause méridienne (12h30- 13H30) 
 
  Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
-Myriam Servières (myriam.servieres@ec-nantes.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
+Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.abergel@map.cnrs.fr) ou Vincent Tourre (vincent.tourre@ec-nantes.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
 
 ### Voici le lien pour vous connecter (Attention, ce lien pourra changer d'un mois à l'autre)
  <!-- * Réunion Microsoft Teams 
@@ -19,7 +19,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Gilles Gesquière (gilles.g
 * Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2022
 
 ### Présentations 2023/ 2024
-Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches lus abouties.
+Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.
 
 ### Présentations 2022/ 2023
 
