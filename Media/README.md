@@ -24,6 +24,7 @@ Il est maintenant temps de préparer le programme de l'année prochaine. N'hési
 ### Présentations 2022/ 2023
 
  * 6 juillet 2023 - 12h30 MAAMIR Mohamed (SDMIS Lyon)- Reproduction de la ville de Lyon pour la Formation des Sapeurs-Pompiers
+   ![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
  * 4 mai 2023 - 12h30 [Stéphanie Mailleur](https://www.aria.archi.fr/equipe/stephanie-mailleur/) et [Renato Saleri](https://www.aria.archi.fr/equipe/renato-saleri/) - [MAP-ARIA](https://www.aria.archi.fr) - "Reconstituer le paysage urbain des villes portuaires de la Méditerranée romaine : méthode d'intégration des sources historiques et archéologiques aux outils 3D" [[slides](20230504_Webinar3D_MAGIS_villesPortuairesRomaines_Mailleur_Saleri.pdf)]
 
 ![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
