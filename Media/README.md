@@ -27,7 +27,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.
 
  * 1 févier 2024 - 12h30 [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
 
-![Image](OPS_Data2.jpg)
+<img src="OPS_Data2.jpg" width="400">
 
  * 4 avril 2024 - 12h30 En cours de programmation
  
@@ -37,8 +37,10 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.
 
 ### Présentations 2022/ 2023
 
- * 6 juillet 2023 - 12h30 MAAMIR Mohamed (SDMIS Lyon)- Reproduction de la ville de Lyon pour la Formation des Sapeurs-Pompiers
-   ![Image](2023_07_06_SDMIS.png)
+* 6 juillet 2023 - 12h30 MAAMIR Mohamed (SDMIS Lyon)- Reproduction de la ville de Lyon pour la Formation des Sapeurs-Pompiers
+
+<img src="2023_07_06_SDMIS.png" width="400">
+
 
  * 4 mai 2023 - 12h30 [Stéphanie Mailleur](https://www.aria.archi.fr/equipe/stephanie-mailleur/) et [Renato Saleri](https://www.aria.archi.fr/equipe/renato-saleri/) - [MAP-ARIA](https://www.aria.archi.fr) - "Reconstituer le paysage urbain des villes portuaires de la Méditerranée romaine : méthode d'intégration des sources historiques et archéologiques aux outils 3D" [[slides](20230504_Webinar3D_MAGIS_villesPortuairesRomaines_Mailleur_Saleri.pdf)]
 
