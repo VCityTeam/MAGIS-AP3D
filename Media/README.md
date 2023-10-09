@@ -19,20 +19,37 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.
 * Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2324
 
 ### Présentations 2023/ 2024
-Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.
+<!-- Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.-->
+
+ * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - Titre en cours de définition 
+
+ * 7 décembre 2023 - 12h30 - En cours de programmation
+
+ * 1 févier 2024 - 12h30 [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
+
+![Image](OPS_Data2.jpg)
+
+ * 4 avril 2024 - 12h30 En cours de programmation
+ 
+ * 6 juin 2024 - 12h30 En cours de programmation
+
+
 
 ### Présentations 2022/ 2023
 
  * 6 juillet 2023 - 12h30 MAAMIR Mohamed (SDMIS Lyon)- Reproduction de la ville de Lyon pour la Formation des Sapeurs-Pompiers
    ![Image](2023_07_06_SDMIS.png)
+
  * 4 mai 2023 - 12h30 [Stéphanie Mailleur](https://www.aria.archi.fr/equipe/stephanie-mailleur/) et [Renato Saleri](https://www.aria.archi.fr/equipe/renato-saleri/) - [MAP-ARIA](https://www.aria.archi.fr) - "Reconstituer le paysage urbain des villes portuaires de la Méditerranée romaine : méthode d'intégration des sources historiques et archéologiques aux outils 3D" [[slides](20230504_Webinar3D_MAGIS_villesPortuairesRomaines_Mailleur_Saleri.pdf)]
 
 ![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
+
  * 6 avril 2023 - 12h30 [Corentin GAUTIER]( https://liris.cnrs.fr/page-membre/corentin-gautier) – [LIRIS]( https://liris.cnrs.fr/), [Projet VCity](https://projet.liris.cnrs.fr/vcity/) – « Intégration de multimédia dans une maquette 3D de la ville pour une meilleur compréhension des territoires » [[slides]](20230406_Webinar3D_CorentinGAUTIER.pdf)
 
 ![Image](2023_04_06_Webinar_Corentin_Gautier_Liris1.png)
 
  * 2 mars 2023 - 12h30 ~[Valerio Signorelli (UCL)](https://www.ucl.ac.uk/bartlett/casa/valerio-signorelli)~ **reporté**
+
  * 2 février 2023 - 12h30 [Barbara Piga, Polimi](http://www.labsimurb.polimi.it/about-2/people/barbara-piga/) "X-Realty for supporting Human-Centered Design"
  
   ![Image](20230202_Webinar3D_MAGIS_Piga.png)
