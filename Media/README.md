@@ -21,17 +21,17 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.
 ### Présentations 2023/ 2024
 <!-- Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.-->
 
- * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - Titre en cours de définition 
+ * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - Serious Game et VR au SDMIS Lyon
 
  * 7 décembre 2023 - 12h30 - En cours de programmation
 
- * 1 févier 2024 - 12h30 [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
+ * 1 févier 2024 - 12h30 - [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
 
 <img src="OPS_Data2.jpg" width="400">
 
- * 4 avril 2024 - 12h30 En cours de programmation
+ * 4 avril 2024 - 12h30 - En cours de programmation
  
- * 6 juin 2024 - 12h30 En cours de programmation
+ * 6 juin 2024 - 12h30 - En cours de programmation
 
 
 
