@@ -16,7 +16,7 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.
  <!-- * Réunion Microsoft Teams 
  * [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGE4YzJmYmItNTc4NC00NDYxLWI2ZTAtYWRhYTdmZWQ5NDUw%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d)
 -->
-* Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2022
+* Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2324
 
 ### Présentations 2023/ 2024
 Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.
