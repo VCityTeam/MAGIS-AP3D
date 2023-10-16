@@ -21,7 +21,9 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.
 ### Présentations 2023/ 2024
 <!-- Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.-->
 
- * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - Serious Game et VR au SDMIS Lyon
+ * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - "SIG pour les sapeurs-pompiers : usages et enjeux opérationnels"
+
+<img src="SDMIS_exemple.png" width="400">
 
  * 7 décembre 2023 - 12h30 - En cours de programmation
 
