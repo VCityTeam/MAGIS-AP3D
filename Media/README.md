@@ -7,10 +7,10 @@ Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](htt
   
   Au cours de chaque session, il s'agit d'une prise de parole de 30 minutes (maximum) suivie de 30 minutes de discussions et échanges, partie importante de ce groupe de travail. 
   
- Le Webinar 3D a pour vocation à se répéter presque tous les mois (1er jeudi du mois) sur le temps de la pause méridienne (12h30- 13H30) 
+ Le Webinar 3D a pour vocation à se répéter tous les deux mois (1er jeudi) sur le temps de la pause méridienne (12h30 - 13H30) 
 
  Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
-Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.abergel@map.cnrs.fr) ou Vincent Tourre (vincent.tourre@ec-nantes.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
+Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.abergel@map.cnrs.fr) ou Vincent Tourre (vincent.tourre@ec-nantes.fr)
 
 ### Voici le lien pour vous connecter (Attention, ce lien pourra changer d'un mois à l'autre)
  <!-- * Réunion Microsoft Teams 
