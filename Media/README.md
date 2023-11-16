@@ -18,58 +18,62 @@ Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.
 -->
 * Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2324
 
-### Présentations 2023/ 2024
+### Présentations 2023/2024
 <!-- Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.-->
 
- * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - "SIG pour les sapeurs-pompiers : usages et enjeux opérationnels" [[slides]](2023_PRESENTATION_WEBINAIRE_SDMIS.pdf)
+* 6 juin 2024 - 12h30 - En cours de programmation
 
-<img src="SDMIS_exemple.png" width="400">
+* 4 avril 2024 - 12h30 - En cours de programmation
 
- * 7 décembre 2023 - 12h30 - En cours de programmation
-
- * 1 févier 2024 - 12h30 - [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
+* 1 févier 2024 - 12h30 - [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
 
 <img src="OPS_Data2.jpg" width="400">
 
- * 4 avril 2024 - 12h30 - En cours de programmation
+* 7 décembre 2023 - 12h30 - En cours de programmation
+
+* 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - "SIG pour les sapeurs-pompiers : usages et enjeux opérationnels" [[slides]](2023_PRESENTATION_WEBINAIRE_SDMIS.pdf)
+
+<img src="SDMIS_exemple.png" width="400">
+
  
- * 6 juin 2024 - 12h30 - En cours de programmation
 
-
-
-### Présentations 2022/ 2023
+### Présentations 2022/2023
 
 * 6 juillet 2023 - 12h30 MAAMIR Mohamed (SDMIS Lyon)- Reproduction de la ville de Lyon pour la Formation des Sapeurs-Pompiers
 
 <img src="2023_07_06_SDMIS.png" width="400">
 
-
  * 4 mai 2023 - 12h30 [Stéphanie Mailleur](https://www.aria.archi.fr/equipe/stephanie-mailleur/) et [Renato Saleri](https://www.aria.archi.fr/equipe/renato-saleri/) - [MAP-ARIA](https://www.aria.archi.fr) - "Reconstituer le paysage urbain des villes portuaires de la Méditerranée romaine : méthode d'intégration des sources historiques et archéologiques aux outils 3D" [[slides](20230504_Webinar3D_MAGIS_villesPortuairesRomaines_Mailleur_Saleri.pdf)]
 
-![Image](20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg)
+<img src="20230504_Webinar3D_MAGIS_Mailleur_Saleri_paysage_archeo.jpg" width="400">
 
  * 6 avril 2023 - 12h30 [Corentin GAUTIER]( https://liris.cnrs.fr/page-membre/corentin-gautier) – [LIRIS]( https://liris.cnrs.fr/), [Projet VCity](https://projet.liris.cnrs.fr/vcity/) – « Intégration de multimédia dans une maquette 3D de la ville pour une meilleur compréhension des territoires » [[slides]](20230406_Webinar3D_CorentinGAUTIER.pdf)
 
-![Image](2023_04_06_Webinar_Corentin_Gautier_Liris1.png)
+<img src="2023_04_06_Webinar_Corentin_Gautier_Liris1.png" width="400">
 
- * 2 mars 2023 - 12h30 ~[Valerio Signorelli (UCL)](https://www.ucl.ac.uk/bartlett/casa/valerio-signorelli)~ **reporté**
+* 2 mars 2023 - 12h30 ~[Valerio Signorelli (UCL)](https://www.ucl.ac.uk/bartlett/casa/valerio-signorelli)~ **reporté**
 
- * 2 février 2023 - 12h30 [Barbara Piga, Polimi](http://www.labsimurb.polimi.it/about-2/people/barbara-piga/) "X-Realty for supporting Human-Centered Design"
+* 2 février 2023 - 12h30 [Barbara Piga, Polimi](http://www.labsimurb.polimi.it/about-2/people/barbara-piga/) "X-Realty for supporting Human-Centered Design"
  
-  ![Image](20230202_Webinar3D_MAGIS_Piga.png)
- * 5 janvier 2023 - 12h30 [Mohamed Amin Hammami,  Imam Abdulrahman Bin Faisal University. Dammam, KSA](https://www.geomatics-cc-mah.com/rig) "Vers un observatoire acoustique et psychoacoustique de paysages sonores en milieu urbain" [[slides](20230105_Webinar3D_MAGIS_PaysagesSonores_Hammami.pdf)] 
+<img src="20230202_Webinar3D_MAGIS_Piga.png" width="400">
+  
+* 5 janvier 2023 - 12h30 [Mohamed Amin Hammami,  Imam Abdulrahman Bin Faisal University. Dammam, KSA](https://www.geomatics-cc-mah.com/rig) "Vers un observatoire acoustique et psychoacoustique de paysages sonores en milieu urbain" [[slides](20230105_Webinar3D_MAGIS_PaysagesSonores_Hammami.pdf)] 
  
- ![Image](20230105_Webinar3D_MAGIS_PaysagesSonores_Hammami.png)
- * 1er décembre 2022 - 12h30 [Iris De Gelis](https://www.linkedin.com/in/iris-de-gélis-550103133/?originalSubdomain=fr) (OBELIX-IRISA) "3D point clouds change detection: from supervised to unsupervised deep learning methods" [[slides]](20221201_Seminar_DeGelis_3D_point_clouds_change_detection_compressed.pdf) 
+<img src="20230105_Webinar3D_MAGIS_PaysagesSonores_Hammami.png" width="400">
 
- ![Image](20221201_Seminar_DeGelis_3D_point_clouds_change_detection.png)
- * 10 novembre 2022 - 12h30 [Benjamin Beaucamp, AAU-CRENAU](https://aau.archi.fr/equipe/beaucamp-benjamin/) "Vers une visualisation située d’une cartographie sensible des villes -
+* 1er décembre 2022 - 12h30 [Iris De Gelis](https://www.linkedin.com/in/iris-de-gélis-550103133/?originalSubdomain=fr) (OBELIX-IRISA) "3D point clouds change detection: from supervised to unsupervised deep learning methods" [[slides]](20221201_Seminar_DeGelis_3D_point_clouds_change_detection_compressed.pdf) 
+
+<img src="20221201_Seminar_DeGelis_3D_point_clouds_change_detection.png" width="400">
+
+* 10 novembre 2022 - 12h30 [Benjamin Beaucamp, AAU-CRENAU](https://aau.archi.fr/equipe/beaucamp-benjamin/) "Vers une visualisation située d’une cartographie sensible des villes -
 Qualification par apprentissage automatique de la perception de l'espace urbain par un piéton en mobilité" [[slides]](20221110_Webinar3D_BEAUCAMP_AAU_Cartographie_sensible_des_villes.pdf)
 
-![Image](20221110_BEAUCAMP.png)
- * 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com) "Research at the Urban Analytics Lab in Singapore"[[slides]](20221006_Biljecki_UAL_compressed.pdf) 
+<img src="20221110_BEAUCAMP.png" width="400">
+
+* 6 octobre 2022 - 12h30 [Filip Biljecki, National University of Singapore](https://filipbiljecki.com) "Research at the Urban Analytics Lab in Singapore"[[slides]](20221006_Biljecki_UAL_compressed.pdf) 
  
-![Image](20221006_Biljecki_UAL.png)
+<img src="20221006_Biljecki_UAL.png" width="400">
+
 
 ### Présentations 2021/2022 
 
