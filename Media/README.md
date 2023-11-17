@@ -1,15 +1,15 @@
 #  Webinar 3D et geospatial
 Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](http://gdr-magis.imag.fr/) et le [GDR CNRS IG-RV](https://gdr-igrv.icube.unistra.fr/index.php/Accueil). 
 
- Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu et visualisation.
+Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu, interaction et visualisation.
  
-  Le Webinar 3D est un lieu d'échange sur les données géospatiales multidimensionnelles. Les présentations portent sur des recherches en cours (pas forcément abouties), des outils liés à l’étude ou à la représentation de données ou des cas d'utilisation où la donnée 3D a été mobilisée. 
+Le Webinar 3D est un lieu d'échange sur les données géospatiales multidimensionnelles. Les présentations portent sur des recherches en cours, des outils liés à l’étude ou à la représentation de données, ou des cas d'utilisation où la donnée 3D a été mobilisée. 
   
-  Au cours de chaque session, il s'agit d'une prise de parole de 30 minutes (maximum) suivie de 30 minutes de discussions et échanges, partie importante de ce groupe de travail. 
+Au cours de chaque session, il s'agit d'une prise de parole de 30 minutes suivie de 30 minutes de discussions et échanges, partie importante de ce groupe de travail. 
   
- Le Webinar 3D a pour vocation à se répéter tous les deux mois (1er jeudi) sur le temps de la pause méridienne (12h30 - 13H30) 
+Le Webinar 3D a pour vocation à se répéter tous les deux mois (1er jeudi) sur le temps de la pause méridienne (12h30 - 13H30) 
 
- Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
+Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
 Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.abergel@map.cnrs.fr) ou Vincent Tourre (vincent.tourre@ec-nantes.fr)
 
 ### Voici le lien pour vous connecter (Attention, ce lien pourra changer d'un mois à l'autre)
