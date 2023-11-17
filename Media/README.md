@@ -12,6 +12,9 @@ Le Webinar 3D a pour vocation à se répéter tous les deux mois (1er jeudi) sur
 Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez :
 Myriam Servières (myriam.servieres@ec-nantes.fr) ou Violette Abergel (violette.abergel@map.cnrs.fr) ou Vincent Tourre (vincent.tourre@ec-nantes.fr)
 
+Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webinaire en 2019 et participé à l'animation jusqu'en 2023.
+
+
 ### Voici le lien pour vous connecter (Attention, ce lien pourra changer d'un mois à l'autre)
  <!-- * Réunion Microsoft Teams 
  * [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGE4YzJmYmItNTc4NC00NDYxLWI2ZTAtYWRhYTdmZWQ5NDUw%40thread.v2/0?context=%7b%22Tid%22%3a%22a51a6642-5911-4306-a13c-f4731ab9c63f%22%2c%22Oid%22%3a%225aa46b1d-96d9-42ab-97d2-667015fd6243%22%7d)
