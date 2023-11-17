@@ -18,6 +18,8 @@ Depuis 2019, un [Webinaire 3D](Media/README.md) dédié à la 3D et ses usages p
 Ce webinaire est actuellement est co-organisé avec le [GdR IG-RV](https://gdr-igrv.fr/).
 Il est organisé au moment du déjeuner (12h30-13h30) un mois sur deux. N'hésitez pas à nous contacter pour plus d'information ou pour faire une présentation.
 
+Nous remercions Gilles Gesquière et Sidonie Christophe qui faisaient partie de l'équipe d'animation précédemment.
+
 *English*
 # MAGIS Research Action : Beyond 3D
 
@@ -39,3 +41,4 @@ Since 2019, a [Webinar 3D](Media/README.md) dedicated to 3D and its usages in sp
 This webinaire is currently co-organised with the research group [GdR IG-RV](https://gdr-igrv.fr/).
 It takes place during lunch time (12h30-13h30) each thursday of pair month. Do not hesitate to contact us if you want more information.
 
+We thank Gilles Gesquière and Sidonie Christophe who were previously part of the animation team.
