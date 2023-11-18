@@ -1,5 +1,5 @@
-#  Webinar 3D et geospatial
-Le Webinar 3D « autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](http://gdr-magis.imag.fr/) et le [GDR CNRS IG-RV](https://gdr-igrv.icube.unistra.fr/index.php/Accueil). 
+#  Webinaire Autour de la 3D
+Le Webinaire « Autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](http://gdr-magis.imag.fr/) et le [GDR CNRS IG-RV](https://gdr-igrv.icube.unistra.fr/index.php/Accueil). 
 
 Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu, interaction et visualisation.
  
