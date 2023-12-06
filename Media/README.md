@@ -2,7 +2,7 @@
 Le Webinaire « Autour de la 3D » est co-organisé par le [GDR CNRS MAGIS](http://gdr-magis.imag.fr/) et le [GDR CNRS IG-RV](https://gdr-igrv.icube.unistra.fr/index.php/Accueil). 
 
 Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu, interaction et visualisation.
- 
+
 Le Webinar 3D est un lieu d'échange sur les données géospatiales multidimensionnelles. Les présentations portent sur des recherches en cours, des outils liés à l’étude ou à la représentation de données, ou des cas d'utilisation où la donnée 3D a été mobilisée. 
   
 Au cours de chaque session, il s'agit d'une prise de parole de 30 minutes suivie de 30 minutes de discussions et échanges, partie importante de ce groupe de travail. 
@@ -31,8 +31,6 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 * 1 févier 2024 - 12h30 - [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
 
 <img src="OPS_Data2.jpg" width="400">
-
-* 7 décembre 2023 - 12h30 - En cours de programmation
 
 * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - "SIG pour les sapeurs-pompiers : usages et enjeux opérationnels" [[slides]](2023_PRESENTATION_WEBINAIRE_SDMIS.pdf)
 
