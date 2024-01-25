@@ -29,7 +29,7 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 * 4 avril 2024 - 12h30 - [Clément Colin](https://liris.cnrs.fr/these/these-clement-colin) - [LIRIS](https://liris.cnrs.fr/) - "Gestion et visualisation multiscalaire du territoire au bâtiment"
 <img src="prez_Clement_colin.jpg" width="400">
 
-* 1 févier 2024 - 12h30 - [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
+* 1 février 2024 - 12h30 - [Valerio Signorelli](https://profiles.ucl.ac.uk/57564) - [CASA](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis) - "Twin in the Net: Harnessing Web Technology for Urban and Architectural Data Visualization"
 <img src="OPS_Data2.jpg" width="400">
 
 * 9 novembre 2023 - 12h30 - Xavier Plasse - [SDMIS Lyon](https://www.sdmis.fr/) - "SIG pour les sapeurs-pompiers : usages et enjeux opérationnels" [[slides]](2023_PRESENTATION_WEBINAIRE_SDMIS.pdf)
