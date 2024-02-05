@@ -25,6 +25,7 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 <!-- Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.-->
 
 * 6 juin 2024 - 12h30 - [Valeria Croce](https://www.theses.fr/2022HESAE037) - [LISPEN](https://lispen.ensam.eu/) - "IA pour l'interprétation de données 3D dans le patrimoine et l'industrie"
+<img src="2024_06_06_Valeria-Croce.jpg" width="400">
 
 * 4 avril 2024 - 12h30 - [Clément Colin](https://liris.cnrs.fr/these/these-clement-colin) - [LIRIS](https://liris.cnrs.fr/) - "Gestion et visualisation multiscalaire du territoire au bâtiment"
 <img src="prez_Clement_colin.jpg" width="400">
