@@ -47,7 +47,7 @@ La journée d'étude « **Territoires et immersion(s)** » prend comme postulat 
 Le programme détaillé sera diffusé fin mai.
 
 ## Participation :
-Pour soumettre une présentation, vous pouvez envoyer vos propositions de communications en soumettant un résumé d’environ 500 mots avant le **13 mai** à l’adresse : territoires_et_immersions@crenau.archi.fr
+Pour soumettre une présentation, vous pouvez envoyer vos propositions de communications en soumettant un résumé d’environ 500 mots avant le ~~**13 mai**~~ **20 mai** à l’adresse : territoires_et_immersions@crenau.archi.fr
 
 ## Inscriptions :
 Inscriptions gratuites et obligatoires, à la journée de présentation et démos et/ou à l'atelier iTowns avant le **7 juin** à sur **[ce formulaire](https://forms.gle/FisZ6rv4X45GyEKk6)**.
