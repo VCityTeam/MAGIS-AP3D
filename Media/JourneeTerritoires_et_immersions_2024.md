@@ -5,10 +5,11 @@
 </div>
 
 # Journées Territoires et Immersion(s) 2024 - Lyon
+## (reportée en octobre 2024)
 
 Dans le cadre de l’action de recherche « Au-delà de la 3D » du GdR MAGIS et en collaboration avec le GdR IG-RV et le Consortium 3DHN, nous organisons deux journées d’animation scientifique sur le thème « Territoires et immersions ».
 
-- Lundi 17 juin (urbanLAB - ERASME)
+- Lundi 17 juin (urbanLAB - ERASME) -> reporté en octobre 2024
 - Mardi 18 juin matin (Campus LyonTech-la Doua)
 
 
