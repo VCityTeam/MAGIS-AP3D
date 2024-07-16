@@ -4,4 +4,4 @@
 
 - [11 mai 2023 - Journée "Territoires et immersions" en collaboration avec les GDR MAGIS,IG-RV et Consortium 3D-SHS](https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/JourneeTerritoires_et_immersions.md)
 
-- (reportée en octobre 2024) [17/18 juin 2024 - Journées "Territoires et immersions" en collaboration avec les GDR MAGIS,IG-RV et Consortium 3D-HN](https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/JourneeTerritoires_et_immersions_2024.md)
+- [3/4 octobre 2024 - Journées "Territoires et immersions" en collaboration avec les GDR MAGIS,IG-RV et Consortium 3D-HN](https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/JourneeTerritoires_et_immersions_2024.md)
