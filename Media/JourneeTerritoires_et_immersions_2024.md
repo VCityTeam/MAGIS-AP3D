@@ -23,19 +23,28 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
 
 ## Programme :
 - Jeudi 3 octobre (urbanLAB - ERASME)
-  - Présentation invitée de Gilles Gesquière (LIRIS, Université Lumière Lyon 2)
-  - Présentations scientifiques des participants
-  - Visite du laboratoire ERASME
+  - 9h30 : Accueil
+  - 9h45 : Introduction et présentation ERASME
+  - 10h : Présentation invitée de Gilles Gesquière (LIRIS, Université Lumière Lyon 2)
+  - 11h : Session Jumeau numérique :
+    - Représentations dynamiques, virtuelles et tangibles de la ville (présentation Corentin Gautier, LIRIS)
+  - 11h30 : Visite du laboratoire ERASME
+  - 12h30 : Déjeuner
+  - 14h : Session patrimoine :
+    - Analyse multidimensionnelle et exploration de données scientifiques du patrimoine en réalité mixte (présentation Melvin Hersent, MAP)
+    - Projet TIBRE: Tester, Interagir et Bâtir en Réalités Etendues (présentation Renato Saleri, MAP)
+    - L’interopérabilité HBIM-SIG au service de l'étude archéologique du théâtre antique d'Orange : L'enjeu des données territoriales (Présentation Sandrine Borel‐Dubourg, IRAA)
+  - 15h30 : Pause
+  - 16h : Session risques :
+    - Développement d’un outil immersif de sensibilisation à la montée des eaux et aux changements climatique sur le littoral par la réalité virtuelle (Présentation Jin-A Choi, AAU)
+    - Mapping Multi-Hazard Susceptibility Using Machine Learning: MaxEnt Method (présentation Hedieh Soltanpour, CITERES)
+  - 17h : Clôture
 - Vendredi 4 octobre matin (Campus LyonTech-la Doua)
-  - Atelier iTowns
+  - 9h-12h : Atelier iTowns (http://www.itowns-project.org/)
 
-Le programme détaillé sera diffusé mi-septembre.
-
-## Participation :
-Pour soumettre une présentation, vous pouvez envoyer vos propositions de communications en soumettant un résumé d’environ 500 mots avant le **11 septembre** à l’adresse : territoires_et_immersions@crenau.archi.fr
 
 ## Inscriptions :
-Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à l'atelier iTowns avant le **20 septembre** à sur **[ce formulaire](https://forms.gle/FisZ6rv4X45GyEKk6)**.
+Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à l'atelier iTowns jusqu'au **20 septembre** à sur **[ce formulaire](https://forms.gle/FisZ6rv4X45GyEKk6)**.
 
 
 ## Organisation :
