@@ -26,6 +26,7 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
   - 9h30 : Accueil
   - 9h45 : Introduction et présentation ERASME
   - 10h : Présentation invitée de Gilles Gesquière (LIRIS, Université Lumière Lyon 2)
+    - "2D, 3D, ... Interface avec le territoire."
   - 11h : Session Jumeau numérique :
     - Représentations dynamiques, virtuelles et tangibles de la ville (présentation Corentin Gautier, LIRIS)
   - 11h30 : Visite du laboratoire ERASME
