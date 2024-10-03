@@ -14,8 +14,8 @@
 
 Dans le cadre de l’action de recherche « Au-delà de la 3D » du [GdR MAGIS](https://gdr-magis.cnrs.fr/) et en collaboration avec le [GdR IG-RV](https://gdr-igrv.fr/) et le [Consortium 3DHN](https://shs3d.hypotheses.org/), nous organisons deux journées d’animation scientifique sur le thème « Territoires et immersions ».
 
-- Jeudi 3 octobre (urbanLAB - [ERASME](https://www.linkedin.com/company/erasme-urbanlab/))
-- Vendredi 4 octobre matin (Campus LyonTech-la Doua)
+- Jeudi 3 octobre (urbanLAB - [ERASME](https://www.linkedin.com/company/erasme-urbanlab/)) : Pôle Pixel - Bâtiment C1, 26 rue Émile DECORPS, 69100 VILLEURBANNE
+- Vendredi 4 octobre matin (Campus LyonTech-la Doua) : Bâtiment Ada Lovelace, Campus de la Doua, 20, Avenue Albert Einstein, 69621 VILLEURBANNE CEDEX, France
 
 Les journées d'étude « **Territoires et immersion(s)** » prennent comme postulat de départ que pour saisir l'essence d'un territoire, s'y immerger est nécessaire. Si l'immersion in situ, est certes riche d'enseignement, l’immersion numérique constitue une approche complémentaire qui offre une expérience interactive et reproductible des territoires. Qu’elle s’appuie ou non sur le recours aux réalités étendues, l'immersion dans les données territoriales peut constituer la base d’un espace commun de discussion. Il devient alors nécessaire d’adopter des postures transversales, et d’interroger différentes disciplines pour comprendre précisément leurs manières de collecter, manipuler et interpréter les données territoriales à travers leurs outils théoriques, méthodologiques et opérationnels. 
 
