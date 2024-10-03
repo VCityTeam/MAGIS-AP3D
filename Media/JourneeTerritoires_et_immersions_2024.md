@@ -41,7 +41,7 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
     - Mapping Multi-Hazard Susceptibility Using Machine Learning: MaxEnt Method (présentation Hedieh Soltanpour, CITERES)
   - 17h : Clôture
 - Vendredi 4 octobre matin (Campus LyonTech-la Doua)
-  - 9h-12h : Atelier iTowns (http://www.itowns-project.org/)
+  - 9h-12h : Atelier iTowns (http://www.itowns-project.org/) : Bâtiment Ada LOVELACE salle 342
 
 
 ## Inscriptions :
@@ -51,4 +51,6 @@ Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à
 ## Organisation :
 - Préparation journées : Myriam Servières (AAU, Centrale Nantes), Violette Arbergel (MAP, CNRS), Vincent Tourre (AAU, Centrale Nantes), Mehdi Chayani (Archeoscience Bordeaux, CNRS), Xavier Granier (LP2N, IOA)
 - Atelier iTowns : Mathieu Brédif (LASTIG, IGN), Gérald Choqueux (LASTIG, IGN), Éric Boix (LIRIS, CNRS)
+lieu : Bâtiment Ada LOVELACE - salle 342
+
 
