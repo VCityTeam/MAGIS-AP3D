@@ -34,18 +34,14 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
   - 14h : Session patrimoine :
     - Analyse multidimensionnelle et exploration de données scientifiques du patrimoine en réalité mixte (présentation Melvin Hersent, MAP)
     - Projet TIBRE: Tester, Interagir et Bâtir en Réalités Etendues (présentation Renato Saleri, MAP)
-    - L’interopérabilité HBIM-SIG au service de l'étude archéologique du théâtre antique d'Orange : L'enjeu des données territoriales (Présentation Sandrine Borel‐Dubourg, IRAA)
+    - L’interopérabilité HBIM-SIG au service de l'étude archéologique du théâtre antique d'Orange : L'enjeu des données territoriales (Présentation Sandrine Borel‐Dubourg, Marc Panneau, Florian Beguet, IRAA)
   - 15h30 : Pause
   - 16h : Session risques :
-    - Développement d’un outil immersif de sensibilisation à la montée des eaux et aux changements climatique sur le littoral par la réalité virtuelle (Présentation Jin-A Choi, AAU)
+    - Développement d’un outil immersif de sensibilisation à la montée des eaux et aux changements climatique sur le littoral par la réalité virtuelle (Présentation Myriam Servières, AAU)
     - Mapping Multi-Hazard Susceptibility Using Machine Learning: MaxEnt Method (présentation Hedieh Soltanpour, CITERES)
   - 17h : Clôture
 - Vendredi 4 octobre matin (Campus LyonTech-la Doua)
   - 9h-12h : Atelier iTowns (http://www.itowns-project.org/) : Bâtiment Ada LOVELACE salle 342
-
-
-## Inscriptions :
-Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à l'atelier iTowns jusqu'au **20 septembre** à sur **[ce formulaire](https://forms.gle/FisZ6rv4X45GyEKk6)**.
 
 
 ## Organisation :
