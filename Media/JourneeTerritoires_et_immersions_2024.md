@@ -26,15 +26,15 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
   - 9h30 : Accueil
   - 9h45 : Introduction et présentation ERASME
   - 10h : Présentation invitée de Gilles Gesquière (LIRIS, Université Lumière Lyon 2)
-    - "2D, 3D, 4D, ... Interfaces avec le territoire."
+    - "2D, 3D, 4D, ... Interfaces avec le territoire." [présentation](2024_10_03_AR3D_Gesquiere.pdf)
   - 11h : Session Jumeau numérique :
     - Représentations dynamiques, virtuelles et tangibles de la ville (présentation Corentin Gautier, LIRIS)
   - 11h30 : Visite du laboratoire ERASME
   - 12h30 : Déjeuner
   - 14h : Session patrimoine :
-    - Analyse multidimensionnelle et exploration de données scientifiques du patrimoine en réalité mixte (présentation Melvin Hersent, MAP)
+    - Analyse multidimensionnelle et exploration de données scientifiques du patrimoine en réalité mixte (présentation Melvin Hersent, MAP) [présentation](2024_10_03_heritage_science_mixed_reality.pdf)
     - Projet TIBRE: Tester, Interagir et Bâtir en Réalités Etendues (présentation Renato Saleri, MAP)
-    - L’interopérabilité HBIM-SIG au service de l'étude archéologique du théâtre antique d'Orange : L'enjeu des données territoriales (Présentation Sandrine Borel‐Dubourg, Marc Panneau, Florian Beguet, IRAA)
+    - L’interopérabilité HBIM-SIG au service de l'étude archéologique du théâtre antique d'Orange : L'enjeu des données territoriales (Présentation Sandrine Borel‐Dubourg, Marc Panneau, Florian Beguet, IRAA) [présentation](2024_10_03_HBIM-SIG_Orange.pdf)
   - 15h30 : Pause
   - 16h : Session risques :
     - Développement d’un outil immersif de sensibilisation à la montée des eaux et aux changements climatique sur le littoral par la réalité virtuelle (Présentation Myriam Servières, AAU)
