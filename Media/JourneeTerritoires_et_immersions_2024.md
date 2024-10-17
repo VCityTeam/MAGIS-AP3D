@@ -28,7 +28,7 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
   - 10h : Présentation invitée de Gilles Gesquière (LIRIS, Université Lumière Lyon 2)
     - "2D, 3D, 4D, ... Interfaces avec le territoire." [présentation](2024_10_03_AR3D_Gesquiere.pdf)
   - 11h : Session Jumeau numérique :
-    - Représentations dynamiques, virtuelles et tangibles de la ville (présentation Corentin Gautier, LIRIS)
+    - Représentations dynamiques, virtuelles et tangibles de la ville (présentation Corentin Gautier, LIRIS) [présentation](2024_10_03_Corentin_Gautier.pdf)
   - 11h30 : Visite du laboratoire ERASME
   - 12h30 : Déjeuner
   - 14h : Session patrimoine :
