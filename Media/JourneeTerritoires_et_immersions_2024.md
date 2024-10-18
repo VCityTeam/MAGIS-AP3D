@@ -37,7 +37,7 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
     - L’interopérabilité HBIM-SIG au service de l'étude archéologique du théâtre antique d'Orange : L'enjeu des données territoriales (Présentation Sandrine Borel‐Dubourg, Marc Panneau, Florian Beguet, IRAA) [présentation](2024_10_03_HBIM-SIG_Orange.pdf)
   - 15h30 : Pause
   - 16h : Session risques :
-    - Développement d’un outil immersif de sensibilisation à la montée des eaux et aux changements climatique sur le littoral par la réalité virtuelle (Présentation Myriam Servières, AAU)
+    - Développement d’un outil immersif de sensibilisation à la montée des eaux et aux changements climatique sur le littoral par la réalité virtuelle (Présentation Myriam Servières, AAU) [présentation](2024_10_03_simulation_risques.pdf)
     - Mapping Multi-Hazard Susceptibility Using Machine Learning: MaxEnt Method (présentation Hedieh Soltanpour, CITERES)
   - 17h : Clôture
 - Vendredi 4 octobre matin (Campus LyonTech-la Doua)
