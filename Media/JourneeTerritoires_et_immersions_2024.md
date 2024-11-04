@@ -33,7 +33,7 @@ Les journées d'étude « **Territoires et immersion(s)** » prennent comme post
   - 12h30 : Déjeuner
   - 14h : Session patrimoine :
     - Analyse multidimensionnelle et exploration de données scientifiques du patrimoine en réalité mixte (présentation Melvin Hersent, MAP) [présentation](2024_10_03_heritage_science_mixed_reality.pdf)
-    - Projet TIBRE: Tester, Interagir et Bâtir en Réalités Etendues (présentation Renato Saleri, MAP)
+    - Projet TIBRE: Tester, Interagir et Bâtir en Réalités Etendues (présentation Renato Saleri, MAP) [présentation](2024_10_03_TIBRE.pdf)
     - L’interopérabilité HBIM-SIG au service de l'étude archéologique du théâtre antique d'Orange : L'enjeu des données territoriales (Présentation Sandrine Borel‐Dubourg, Marc Panneau, Florian Beguet, IRAA) [présentation](2024_10_03_HBIM-SIG_Orange.pdf)
   - 15h30 : Pause
   - 16h : Session risques :
