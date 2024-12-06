@@ -23,7 +23,7 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 
 ### Présentations 2024/2025 ###
 
-* 5 décembre 2024 - 12h30 - Floryne Roche - [IGN](https://www.ign.fr/) - "LidarHD et IA : de l'IA 3D au sein de la classification de nuages de point"
+* 5 décembre 2024 - 12h30 - Floryne Roche - [IGN](https://www.ign.fr/) - "LidarHD et IA : de l'IA 3D au sein de la classification de nuages de point" [[présentation - partie 1]](20241205_MAGIS_LidarHDIA_partie1.pdf) [[présentation - partie 2]](20241205_MAGIS_LidarHDIA_partie2.pdf) 
 <img src="20241205_Webinar3D_MAGIS_LIDARHD_Roche.png" width="400">
 
 ### Présentations 2023/2024
