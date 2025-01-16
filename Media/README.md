@@ -21,14 +21,14 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 -->
 * Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2324
 
-### Présentations 2024/2025 ###
+## Présentations 2024/2025
 * 6 février 2025 - 12h30 - [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/) - [TUdelft](https://3d.bk.tudelft.nl) - "Le 3DBAG : tous les bâtiments des Pays-Bas représentés avec CityJSON" 
 <img src="20250206_Webinar3D_3dbag_1.png" width="400">
 
 * 5 décembre 2024 - 12h30 - Floryne Roche - [IGN](https://www.ign.fr/) - "LidarHD et IA : de l'IA 3D au sein de la classification de nuages de point" [[présentation - partie 1]](20241205_MAGIS_LidarHDIA_partie1.pdf) [[présentation - partie 2]](20241205_MAGIS_LidarHDIA_partie2.pdf) 
 <img src="20241205_Webinar3D_MAGIS_LIDARHD_Roche.png" width="400">
 
-### Présentations 2023/2024
+## Présentations 2023/2024
 <!-- Il est maintenant temps de préparer le programme de l'année prochaine. N'hésitez pas à nous contacter afin de nous proposer des interventions. L'angle peut être scientifique et technique allant de la déclaration d'intention à des recherches plus abouties.-->
 
 * 6 juin 2024 - 12h30 - [Valeria Croce](https://www.theses.fr/2022HESAE037) - [LISPEN](https://lispen.ensam.eu/) - "IA pour l'interprétation de données 3D dans le patrimoine et l'industrie" [[présentation](2024_06_06_Webinar3D_Croce.pdf)]
@@ -45,7 +45,7 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 
  
 
-### Présentations 2022/2023
+## Présentations 2022/2023
 
 * 6 juillet 2023 - 12h30 MAAMIR Mohamed (SDMIS Lyon)- Reproduction de la ville de Lyon pour la Formation des Sapeurs-Pompiers
 
@@ -83,7 +83,7 @@ Qualification par apprentissage automatique de la perception de l'espace urbain 
 <img src="20221006_Biljecki_UAL.png" width="400">
 
 
-### Présentations 2021/2022 
+## Présentations 2021/2022 
 
 * 07/07/2022 - 12h30 
   * Clément Colin, Corentin Gautier, Diégo Vinasco - LIRIS CNRS - [Urban Data, services and visualizations](2022_07_07_UDSV_Urban_Data_Services_and_Visualizations.pdf)  
@@ -139,7 +139,7 @@ Qualification par apprentissage automatique de la perception de l'espace urbain 
    
    ![Image](2021_Bredif_Image.jpg)
 
-### Présentations 2020/2021
+## Présentations 2020/2021
 * 01/07/2021 - 12h30
   * Arnaud Prouzeau - Inria/POTIOC - Visualisation immersive de données spatiales
  
