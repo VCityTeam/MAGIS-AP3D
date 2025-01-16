@@ -23,7 +23,7 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 
 ### Présentations 2024/2025 ###
 * 6 février 2025 - 12h30 - [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/) - [TUdelft](https://3d.bk.tudelft.nl) - "Le 3DBAG : tous les bâtiments des Pays-Bas représentés avec CityJSON" 
-<img src="20250206_Webinar3D_3dbag_1.pdf" width="400">
+<img src="20250206_Webinar3D_3dbag_1.png" width="400">
 
 * 5 décembre 2024 - 12h30 - Floryne Roche - [IGN](https://www.ign.fr/) - "LidarHD et IA : de l'IA 3D au sein de la classification de nuages de point" [[présentation - partie 1]](20241205_MAGIS_LidarHDIA_partie1.pdf) [[présentation - partie 2]](20241205_MAGIS_LidarHDIA_partie2.pdf) 
 <img src="20241205_Webinar3D_MAGIS_LIDARHD_Roche.png" width="400">
