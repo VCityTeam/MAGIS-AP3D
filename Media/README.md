@@ -22,6 +22,9 @@ Nous remercions Gilles Gesquière et Sidonie Christophe qui ont lancé le webina
 * Réunion Zoom : [Lien zoom](https://ec-nantes.zoom.us/j/96084452785) - ID de réunion : 960 8445 2785 - Code secret : maGIS#2324
 
 ## Présentations 2024/2025
+* 3 avril 2025 - 12h25 - [Benjamin Beaucamp](https://pagespro.univ-gustave-eiffel.fr//benjamin-beaucamp?lang=fr&no_cache=1) - [Geoloc-UGE](https://geoloc.univ-gustave-eiffel.fr) - "Caractérisation de la vue des satellites par modèle 3D ou image Street View pour améliorer le positionnement en mobilité douce - Projet ANR-23-CE22-0004 ReSilientGAIA"
+<img scr="20250403_Webinar3D_MAGIS_ReSilientGAIA.png" width="400">
+
 * 6 février 2025 - 12h30 - [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/) - [TUDelft](https://3d.bk.tudelft.nl) - "Le 3DBAG : tous les bâtiments des Pays-Bas représentés avec CityJSON" [[présentation](2025-02-05_3dbag-cityjson.pdf)]
 <img src="20250206_Webinar3D_3dbag_1.png" width="400">
 
