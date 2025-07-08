@@ -42,7 +42,7 @@ Exemples de domaines d’applications :
 	- Présentations scientifiques
 	- Démonstrations : SIR 3D, Lalibela, Iroungou, 
 - 10 octobre matin - Atelier : Sauvegarde pérenne des données 3D
-	- Initiation aux enjeux de la préservation des données 3D, démonstration de dépôt de jeux de données dans le Conservatoire national des données 3D à l'aide du logiciel aLTAG3D. Les participants sont invités à venir avec leurs propres jeux de données (modèle 3D / txt /jpg/ ..etc.) afin de tester l’outil. 
+	- Initiation aux enjeux de la préservation des données 3D, démonstration de dépôt de jeux de données dans le Conservatoire national des données 3D à l'aide du logiciel aLTAG3D. Les participants sont invités à venir avec leurs propres jeux de données (modèle 3D / txt / jpg / etc.) afin de tester l’outil. 
 
 Pour compléter le programme des présentations sélectionnées et de l’atelier, trois démonstrations immersives viendront questionner les usages concrets de l’immersion appliquée aux territoires et alimenter les échanges interdisciplinaires sur les modalités de représentation, de médiation et d’analyse :
 - SIR 3D : un système d’information référencé en 3D temps réel, permettant le croisement de données spatiales hétérogènes sur support 3D, sera présenté comme outil de suivi patrimonial et d’aide à la recherche. 
