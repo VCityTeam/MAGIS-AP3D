@@ -2,7 +2,7 @@
  <img src="Logo-GDR_MAGIS.jpg" alt="Logo Magis" height="50pt"/> 
  <img src="Logo-GDR_IGRV.jpg" alt="Logo IGRV" height="50pt"/> 
  <img src="logo_consortium_3D_HN.png" alt="Logo Consortium 3D HN" height="50pt"/>
- <img src="Archeovision_LogoASB-2.png" alt="Logo Archeovision" height="50pt"/>
+ <img src="Archeovision_LogoASB-2.jpg" alt="Logo Archeovision" height="50pt"/>
 </div>
 
 # Journées Territoires et Immersion(s) 2025 - 9 et 10 octobre - Bordeaux
