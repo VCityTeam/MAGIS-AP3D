@@ -56,7 +56,7 @@ Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à
 
 
 ## Organisation :
-- Préparation journées : Myriam Servières (AAU, Centrale Nantes), Violette Arbergel (MAP, CNRS), Vincent Tourre (AAU, Centrale Nantes), Mehdi Chayani (Archeoscience Bordeaux, CNRS), Xavier Granier (LP2N, IOA)
+- Préparation journées : Myriam Servières (AAU, Centrale Nantes), Violette Arbergel (MAP, CNRS), Vincent Tourre (AAU, Centrale Nantes), Mehdi Chayani (Archeoscience Bordeaux, CNRS), Florent Laroche (LS2N, Centrale Nantes), Xavier Granier (LP2N, IOA)
 
 
 
