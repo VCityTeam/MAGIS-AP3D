@@ -9,7 +9,7 @@
 
 ## Rencontre géomatique, informatique graphique et humanités numériques
 
-**Mots clés** : 3D ; Immersion ; Réalités étendues ; Territoires augmentés ; Visualisation ; Interaction ; Collaboration ; Pluridisciplinarité ; Données multidimensionnelles
+**Mots clés** : Immersion ; Réalités étendues ; Territoires augmentés ; Visualisation ; Interaction ; Collaboration ; Pluridisciplinarité ; Données multidimensionnelles
 
 Dans le cadre de l’action de recherche « Au-delà de la 3D » du [GdR MAGIS](https://gdr-magis.cnrs.fr/) et en collaboration avec le [GdR IG-RV](https://gdr-igrv.fr/) et le [Consortium 3DHN](https://shs3d.hypotheses.org/), nous organisons deux journées d’animation scientifique sur le thème « Territoires et immersions ».
 
