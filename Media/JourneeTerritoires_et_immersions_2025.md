@@ -21,7 +21,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 ## Programme :
 9 octobre - Journée Territoires et Immersion(s) - Présentations et Atelier
 - 9h **Accueil** Café
-- 9h15 **Introduction** de la journée - Présentatino de la plateforme Archeovision
+- 9h15 **Introduction** de la journée - Présentation de la plateforme Archeovision
 - 9h30 **Session #1 Modèles** 
 	- Rejeu et annotation temporelle de modèles 3D
 	- Géolocalisation XR Outdoor : méthode de visualisation de projet d'urbanisation géoréférencé
