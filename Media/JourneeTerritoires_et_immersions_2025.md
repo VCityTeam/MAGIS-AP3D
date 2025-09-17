@@ -7,7 +7,7 @@
 
 # Journée Territoires et Immersion(s) 2025 - 9 octobre - Pessac
 
-## Lieu : MSHA Bordeaux (10 esplanade des Antilles, 33600 Pessac) 
+## Lieu : MSHA Bordeaux [10 esplanade des Antilles, 33600 Pessac](https://www.openstreetmap.org/way/226888020#map=19/44.794290/-0.618819)
 
 ## Rencontre géomatique, informatique graphique et humanités numériques
 
