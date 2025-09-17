@@ -5,7 +5,9 @@
  <img src="Archeovision_LogoASB-2.jpg" alt="Logo Archeovision" height="50pt"/>
 </div>
 
-# Journée Territoires et Immersion(s) 2025 - 9 octobre - Bordeaux
+# Journée Territoires et Immersion(s) 2025 - 9 octobre - Pessac
+
+## Lieu : MSHA Bordeaux (10 esplanade des Antilles, 33600 Pessac) 
 
 ## Rencontre géomatique, informatique graphique et humanités numériques
 
@@ -50,5 +52,34 @@ Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à
 - Préparation journées : Myriam Servières (AAU, Centrale Nantes), Violette Arbergel (MAP, CNRS), Vincent Tourre (AAU, Centrale Nantes), Mehdi Chayani (Archeoscience Bordeaux, CNRS), Florent Laroche (LS2N, Centrale Nantes), Xavier Granier (LP2N, IOA)
 
 
+## Accès
+Lieu : MSHA Bordeaux (10 esplanade des Antilles , 33600 Pessac) 
+
+Le site est situé sur le campus de l’Université Bordeaux Montaigne à Pessac, au niveau de l’Esplanade des Antilles.
+
+Trois moyens de transport permettent de s’y rendre depuis la gare de Bordeaux-Saint-Jean :
+
+**- Accès le plus rapide : TER + Tram B (Recommandée pour sa rapidité)**
+
+Prendre un TER à la gare de Bordeaux-Saint-Jean en direction de Pessac (coût 2.50 euros) , descendre à la gare de Pessac (environ 8 minutes de trajet), puis prendre le tram B  direction Bordeaux berges de la Garonne/ Bordeaux Claveau, et descendre à l’arrêt Unitec (environ 5 minutes de trajet). Terminer par une courte marche de 5 minutes.
+
+Durée totale estimée : 15 minutes (hors attente).
+
+**- Accès direct par Tram B uniquement**
+
+Depuis la gare Saint-Jean, rejoindre l’arrêt de tram C (ligne Gare Saint-Jean → Quinconces). À l’arrêt Quinconces, prendre le tram B direction Pessac Centre / Alouette-France. Descendre à l’arrêt Unitec, puis marcher 5 minutes jusqu’au site.
+
+Durée totale estimée : 35 à 45 minutes
+
+**- Accès Bus 9**
+
+Prendre le bus 9 (direction Brandenburg) devant la gare de Bordeaux-Saint-Jean jusqu’à l’arrêt Barrière Saint-Genès.
+À Barrière Saint-Genès, monter dans le tramway ligne B, direction Pessac Centre ou Alouette-France, et descendre à Unitec. À l’arrêt Unitec, prévoir une courte marche d’environ 5 minutes.
+
+Temps total estimé à 37 minutes
+
+Horaire Tramway : https://www.infotbm.com/fr               
+
+Horaire TER: https://www.sncf-connect.com/
 
 
