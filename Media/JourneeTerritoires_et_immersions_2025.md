@@ -1,11 +1,16 @@
 <div align="center" width="70%">
- <img src="Logo-GDR_MAGIS.jpg" alt="Logo Magis" height="50pt"/> 
- <img src="Logo-GDR_IGRV.jpg" alt="Logo IGRV" height="50pt"/> 
+ <img src="Logo-GDR_MAGIS.jpg" alt="Logo GDR MAGIS" height="50pt"/> 
+ <img src="Logo-GDR_IGRV.jpg" alt="Logo GDR IGRV" height="50pt"/> 
  <img src="logo_consortium_3D_HN.png" alt="Logo Consortium 3D HN" height="50pt"/>
- <img src="Archeovision_LogoASB-2.jpg" alt="Logo Archeovision" height="50pt"/>
 </div>
 
 # Journée Territoires et Immersion(s) 2025 - 9 octobre - Pessac
+
+<div align="center" width="70%">
+ <img src="-Logo-MSH.png" alt="Logo MSH" height="50pt"/> 
+ <img src="archeosciences Bordeaux.png" alt="Logo Archeosciences" height="75pt"/>
+ <img src="Archeovision_Logo_Coul_Innovation.png" alt="Logo Archeovision" height="50pt"/>
+</div>
 
 ## Lieu : MSHA Bordeaux [10 esplanade des Antilles, 33600 Pessac](https://www.openstreetmap.org/way/226888020#map=19/44.794290/-0.618819)
 
@@ -23,7 +28,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 ## Programme :
 9 octobre - Journée Territoires et Immersion(s) - Présentations et Atelier
 - 9h **Accueil** Café
-- 9h15 **Introduction** de la journée - Présentation de la plateforme Archeovision
+- 9h15 **Introduction** de la journée (Organisateurs) - Présentation de la plateforme Archeovision (R. Chapoulie) 
 - 9h30 **Session #1 Modèles** 
 	- Rejeu et annotation temporelle de modèles 3D (<ins>Agnès Arnould</ins>, <ins>Hakim Ferrier-Belhaouari</ins>, XLim/Univ. Poitiers)
 	- Géolocalisation XR Outdoor : méthode de visualisation de projet d'urbanisation géoréférencé
@@ -36,16 +41,16 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 - 13h Pause déjeuner / **Démonstrations**
 	- La visite augmentée des églises rupestres de Lalibela : proposée en réalité mixte sur casques Hololens, illustrera une expérience immersive guidée dans un lieu patrimonial d’exception.
 	- La reconstitution virtuelle de la grotte d’Iroungou : Une visite virtuelle de la grotte d’Iroungou via des casques Quest, offrant une exploration d’un espace riche en vestiges et objets archéologiques enfouis depuis le XIVème siècle. 
-- 14h30 **Présentation SIR 3D** ( B. Dutailly / M.Constant ) 
+- 14h30 **Présentation SIR 3D** (B. Dutailly / M.Constant / V. Baillet)   
 	- SIR 3D, un système d’information référencé en 3D temps réel, permettant le croisement de données spatiales hétérogènes sur support 3D, sera présenté comme outil de suivi patrimonial et d’aide à la recherche. 
 - 15h30 Pause
-- 16h **Atelier Archivage des données 3D / aLTAG3D** (S. Tournon / M. Chayani )
+- 16h **Atelier Archivage des données 3D / aLTAG3D** (S. Tournon / M. Chayani)
 	- Initiation aux enjeux de la préservation des données 3D, démonstration de dépôt de jeux de données dans le [Conservatoire national des données 3D](https://3d.humanities.science/) à l'aide du logiciel aLTAG3D. Les participants sont invités à venir avec leurs propres jeux de données (modèle 3D / txt / jpg / etc.) afin de tester l’outil. (en collaboration avec le [Consortium 3D HN](https://shs3d.hypotheses.org/))
 - 17h30 fin
 
 
 ## Inscriptions :
-Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à l'atelier avant le **22 septembre** à sur **[ce formulaire](https://forms.gle/FisZ6rv4X45GyEKk6)**.
+Inscriptions gratuites et obligatoires, à la journée de présentation et/ou à l'atelier avant le **26 septembre** à sur **[ce formulaire](https://forms.gle/FisZ6rv4X45GyEKk6)**.
 
 
 ## Organisation :
