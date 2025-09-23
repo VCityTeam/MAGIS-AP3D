@@ -25,9 +25,9 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 - 9h **Accueil** Café
 - 9h15 **Introduction** de la journée - Présentation de la plateforme Archeovision
 - 9h30 **Session #1 Modèles** 
-	- Rejeu et annotation temporelle de modèles 3D
+	- Rejeu et annotation temporelle de modèles 3D (<ins>Agnès Arnould</ins>, <ins>Hakim Ferrier-Belhaouari</ins>, XLim/Univ. Poitiers)
 	- Géolocalisation XR Outdoor : méthode de visualisation de projet d'urbanisation géoréférencé
-	- La Forêt de Notre-Dame de Paris, entre immersions numérique et culturelle 
+	- La Forêt de Notre-Dame de Paris, entre immersions numérique et culturelle (<ins>Kévin Jacquot</ins>, MAP/ENSAL)
 - 11h Pause
 - 11h30 **Session #2 Lumière**
 	- Night Sky Explorer VR: Immersive Visualization of Territories Under Artificial Light
