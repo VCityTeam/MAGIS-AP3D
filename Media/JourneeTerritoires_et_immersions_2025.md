@@ -45,7 +45,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 	- SIR 3D, un système d’information référencé en 3D temps réel, permettant le croisement de données spatiales hétérogènes sur support 3D, sera présenté comme outil de suivi patrimonial et d’aide à la recherche. 
 - 15h30 Pause
 - 16h **Atelier Archivage des données 3D / aLTAG3D** (S. Tournon / M. Chayani)
-	- Initiation aux enjeux de la préservation des données 3D, démonstration de dépôt de jeux de données dans le [Conservatoire national des données 3D](https://3d.humanities.science/) à l'aide du logiciel aLTAG3D. Les participants sont invités à venir avec leurs propres jeux de données (modèle 3D / txt / jpg / etc.) afin de tester l’outil. (en collaboration avec le [Consortium 3D HN](https://shs3d.hypotheses.org/))
+	- Initiation aux enjeux de la préservation des données 3D, démonstration de dépôt de jeux de données dans le [Conservatoire national des données 3D](https://3d.humanities.science/) à l'aide du logiciel aLTAG3D. Les participants sont invités à venir avec leurs propres jeux de données (modèle 3D / txt / jpg / etc.) afin de tester l’outil, ainsi qu'un ordinateur avec Windows. (en collaboration avec le [Consortium 3D HN](https://shs3d.hypotheses.org/))
 - 17h30 fin
 
 
