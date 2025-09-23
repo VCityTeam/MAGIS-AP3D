@@ -27,7 +27,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 - 9h30 **Session #1 Modèles** 
 	- Rejeu et annotation temporelle de modèles 3D
 	- Géolocalisation XR Outdoor : méthode de visualisation de projet d'urbanisation géoréférencé
-	- _Présentation Territoire et VR - titre à venir_
+	- La Forêt de Notre-Dame de Paris, entre immersions numérique et culturelle 
 - 11h Pause
 - 11h30 **Session #2 Lumière**
 	- Night Sky Explorer VR: Immersive Visualization of Territories Under Artificial Light
