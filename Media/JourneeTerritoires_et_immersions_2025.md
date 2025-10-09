@@ -37,7 +37,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 - 11h30 **Session #2 Lumière**
 	- <i>Night Sky Explorer VR: Immersive Visualization of Territories Under Artificial Light</i> (<ins>Maxim Spur</ins>, ENIB/Lab-STICC, Philippe Deverchère, ScotopicLabs, Olivier Augereau, ENIB/Lab-STICC, Edna Hernández González, Laboratoire Géoarchitecture)
 	- <i>SensiLum VR: Experiencing Territories Through the Eyes of Animals Under Artificial Light</i> (Olivier Augereau, ENIB/Lab-STICC, <ins>Maxim Spur</ins>, ENIB/Lab-STICC, Edna Hernández González, Laboratoire Géoarchitecture, Yoann Roulet, Laboratoire Géoarchitecture, Julien Soler, Virtualys)
-	- <i>Perception and Representation of Urban Night Lighting Ambiances in Virtual Reality</i>
+	- <i>Perception and Representation of Urban Night Lighting Ambiances in Virtual Reality</i> (<ins>Anthony Le Gourriérec</ins>, ECN/AAU, IMT/INUIT, Observatoire de la nuit, Myriam Servières, ECN/AAU, Etienne Peillard, IMT/INUIT, Nicolas Houel, Observatoire de la nuit)
 - 13h Pause déjeuner / **Démonstrations**
 	- La visite augmentée des églises rupestres de Lalibela : proposée en réalité mixte sur casques Hololens, illustrera une expérience immersive guidée dans un lieu patrimonial d’exception.
 	- La reconstitution virtuelle de la grotte d’Iroungou : Une visite virtuelle de la grotte d’Iroungou via des casques Quest, offrant une exploration d’un espace riche en vestiges et objets archéologiques enfouis depuis le XIVème siècle. 
