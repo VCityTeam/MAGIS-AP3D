@@ -31,7 +31,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 - 9h15 **Introduction** de la journée (Organisateurs) - Présentation de la plateforme Archeovision (R. Chapoulie) 
 - 9h30 **Session #1 Modèles** 
 	- <i>Rejeu et annotation temporelle de modèles 3D</i> <br>
-	(<ins>Agnès Arnould</ins>, <ins>Hakim Ferrier-Belhaouari</ins>, XLim/Univ. Poitiers)
+	(<ins>Agnès Arnould</ins>, <ins>Hakim Ferrier-Belhaouari</ins>, XLim/Univ. Poitiers) [Présentation](Territoires_et_immersions_2025_Anould.pdf)
 	- <i>Géolocalisation XR Outdoor : méthode de visualisation de projet d'urbanisation géoréférencé</i> <br>
 	(<ins>Corentin Le Bihan Gautier</ins>, Mathieu Brédif, LASTIG/IGN) [Présentation](Territoires_et_immersions_2025_Gautier.pdf)
 	- <i>La Forêt de Notre-Dame de Paris, entre immersions numérique et culturelle</i> <br>
