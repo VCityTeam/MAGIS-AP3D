@@ -33,7 +33,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 	- <i>Rejeu et annotation temporelle de modèles 3D</i> <br>
 	(<ins>Agnès Arnould</ins>, <ins>Hakim Ferrier-Belhaouari</ins>, XLim/Univ. Poitiers)
 	- <i>Géolocalisation XR Outdoor : méthode de visualisation de projet d'urbanisation géoréférencé</i> <br>
-	(<ins>Corentin Le Bihan Gautier</ins>, Mathieu Brédif, LASTIG/IGN)
+	(<ins>Corentin Le Bihan Gautier</ins>, Mathieu Brédif, LASTIG/IGN) [Présentation](Territoires_et_immersions_2025_Gautier.pdf)
 	- <i>La Forêt de Notre-Dame de Paris, entre immersions numérique et culturelle</i> <br>
 	(<ins>Kévin Jacquot</ins>, MAP/ENSAL)
 - 11h Pause
@@ -43,7 +43,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 	- <i>SensiLum VR: Experiencing Territories Through the Eyes of Animals Under Artificial Light</i> <br>
 	(Olivier Augereau, ENIB/Lab-STICC, <ins>Maxim Spur</ins>, ENIB/Lab-STICC, Edna Hernández González, Laboratoire Géoarchitecture, Yoann Roulet, Laboratoire Géoarchitecture, Julien Soler, Virtualys)
 	- <i>Perception and Representation of Urban Night Lighting Ambiances in Virtual Reality</i> <br>
-	(<ins>Anthony Le Gourriérec</ins>, ECN/AAU, IMT/INUIT, Observatoire de la nuit, Myriam Servières, ECN/AAU, Etienne Peillard, IMT/INUIT, Nicolas Houel, Observatoire de la nuit)
+	(<ins>Anthony Le Gourriérec</ins>, ECN/AAU, IMT/INUIT, Observatoire de la nuit, Myriam Servières, ECN/AAU, Etienne Peillard, IMT/INUIT, Nicolas Houel, Observatoire de la nuit) [Présentation](Territoires_et_immersions_2025_Le_Gourrierec.pdf)
 - 13h Pause déjeuner / **Démonstrations**
 	- La visite augmentée des églises rupestres de Lalibela : proposée en réalité mixte sur casques Hololens, illustrera une expérience immersive guidée dans un lieu patrimonial d’exception.
 	- La reconstitution virtuelle de la grotte d’Iroungou : Une visite virtuelle de la grotte d’Iroungou via des casques Quest, offrant une exploration d’un espace riche en vestiges et objets archéologiques enfouis depuis le XIVème siècle. 
