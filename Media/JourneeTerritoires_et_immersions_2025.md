@@ -35,7 +35,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 	- <i>Géolocalisation XR Outdoor : méthode de visualisation de projet d'urbanisation géoréférencé</i> <br>
 	(<ins>Corentin Le Bihan Gautier</ins>, Mathieu Brédif, LASTIG/IGN) [Présentation](Territoires_et_immersions_2025_Gautier.pdf)
 	- <i>La Forêt de Notre-Dame de Paris, entre immersions numérique et culturelle</i> <br>
-	(<ins>Kévin Jacquot</ins>, MAP/ENSAL)
+	(<ins>Kévin Jacquot</ins>, MAP/ENSAL) [Présentation](Territoires_et_immersions_2025_Jacquot.pdf)
 - 11h Pause
 - 11h30 **Session #2 Lumière**
 	- <i>Night Sky Explorer VR: Immersive Visualization of Territories Under Artificial Light</i> <br>
