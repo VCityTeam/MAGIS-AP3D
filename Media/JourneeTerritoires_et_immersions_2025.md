@@ -39,9 +39,9 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 - 11h Pause
 - 11h30 **Session #2 Lumière**
 	- <i>Night Sky Explorer VR: Immersive Visualization of Territories Under Artificial Light</i> <br>
-	(<ins>Maxim Spur</ins>, ENIB/Lab-STICC, Philippe Deverchère, ScotopicLabs, Olivier Augereau, ENIB/Lab-STICC, Edna Hernández González, Laboratoire Géoarchitecture)
+	(<ins>Maxim Spur</ins>, ENIB/Lab-STICC, Philippe Deverchère, ScotopicLabs, Olivier Augereau, ENIB/Lab-STICC, Edna Hernández González, Laboratoire Géoarchitecture) [Présentation](Territoires_et_immersions_2025_Spur_NightSky.pdf)
 	- <i>SensiLum VR: Experiencing Territories Through the Eyes of Animals Under Artificial Light</i> <br>
-	(Olivier Augereau, ENIB/Lab-STICC, <ins>Maxim Spur</ins>, ENIB/Lab-STICC, Edna Hernández González, Laboratoire Géoarchitecture, Yoann Roulet, Laboratoire Géoarchitecture, Julien Soler, Virtualys)
+	(Olivier Augereau, ENIB/Lab-STICC, <ins>Maxim Spur</ins>, ENIB/Lab-STICC, Edna Hernández González, Laboratoire Géoarchitecture, Yoann Roulet, Laboratoire Géoarchitecture, Julien Soler, Virtualys) [Présentation](Territoires_et_immersions_2025_Spur_SensiLum.pdf)
 	- <i>Perception and Representation of Urban Night Lighting Ambiances in Virtual Reality</i> <br>
 	(<ins>Anthony Le Gourriérec</ins>, ECN/AAU, IMT/INUIT, Observatoire de la nuit, Myriam Servières, ECN/AAU, Etienne Peillard, IMT/INUIT, Nicolas Houel, Observatoire de la nuit) [Présentation](Territoires_et_Immersions_2025_Le_Gourrierec.pdf)
 - 13h Pause déjeuner / **Démonstrations**
