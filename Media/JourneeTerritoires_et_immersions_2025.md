@@ -47,7 +47,7 @@ Nous partagerons les avancées de la recherche sur ces enjeux, soulèverons des 
 - 13h Pause déjeuner / **Démonstrations**
 	- La visite augmentée des églises rupestres de Lalibela : proposée en réalité mixte sur casques Hololens, illustrera une expérience immersive guidée dans un lieu patrimonial d’exception.
 	- La reconstitution virtuelle de la grotte d’Iroungou : Une visite virtuelle de la grotte d’Iroungou via des casques Quest, offrant une exploration d’un espace riche en vestiges et objets archéologiques enfouis depuis le XIVème siècle. 
-- 14h30 **Présentation SIR 3D** (B. Dutailly / M.Constant / V. Baillet)   
+- 14h30 **Présentation SIR 3D** (B. Dutailly / M.Constant / V. Baillet) [Présentation](Territoires_et_immersions_2025_SIR3D.pdf) 
 	- SIR 3D, un système d’information référencé en 3D temps réel, permettant le croisement de données spatiales hétérogènes sur support 3D, sera présenté comme outil de suivi patrimonial et d’aide à la recherche. 
 - 15h30 Pause
 - 16h **Atelier Archivage des données 3D / aLTAG3D** (S. Tournon / M. Chayani) [Présentation](Territoires_et_immersions_2025_Archivage3D.pdf)
